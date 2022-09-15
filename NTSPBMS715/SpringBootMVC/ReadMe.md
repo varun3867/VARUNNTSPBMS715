@@ -4,7 +4,7 @@
 ---
 
 * Different models of developing java web application
-*  == <em> **Front Controller** </em> ==
+*  ^^ <em> **Front Controller** </em> ^^
 * Limitations of MVC+Front Controller Architecture when it is implemented with the support of servlet, jsp technologies without using
 frameworks.
 * Advantages of using MVC web applications using Java MVC Frameworks
