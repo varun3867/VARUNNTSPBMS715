@@ -2,10 +2,11 @@
 
 #### Sep 14 2022 -- Spring Boot MVC Intro
 ---
-* Different models of developing java web application
-*   <em>**`Front Controller`**</em>
-* Limitations of MVC+Front Controller Architecture when it is implemented with the support of servlet, jsp technologies without using
-frameworks.
+
+                   1. Different models of developing java web application
+                   2.   <em>**`Front Controller`**</em>
+                   3. Limitations of MVC+Front Controller Architecture when it is implemented with the support of servlet, jsp technologies without
+                   using frameworks.
 
 
 #### Sep 14 2022 -- No Class
@@ -13,7 +14,8 @@ frameworks.
 
 #### Sep 15 2022 -- Spring Boot MVC Intro
 ---
-            * Sample Application on MVC+FrontController 
+
+                    1. Sample Application on MVC+FrontController Architecture with the support of servlet, jsp technologies
 
 #### Sep 16 2022 -- 
 ---
