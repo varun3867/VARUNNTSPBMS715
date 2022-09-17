@@ -30,7 +30,9 @@
 > - <em>**`Project Name :`**</em> *`MVC-FrontController-JEE`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-17th-2022.png`*
 
-> #### Sep 18 2022 -- Spring Boot MVC Intro
+> #### Sep 18 2022 -- Sunday
+
+> #### Sep 19 2022 -- Spring Boot MVC Intro
 
 > - <em>**`Topics:`**</em>
 >     - Advantages of using MVC web applications using Java MVC Frameworks
