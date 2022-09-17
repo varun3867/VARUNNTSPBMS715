@@ -1,4 +1,4 @@
-# SpringBoot MVC
+# SpringBoot MVC -- Should Install Eclipse JEE Flavour
 
 > #### Sep 14 2022 -- Spring Boot MVC Intro
 >
