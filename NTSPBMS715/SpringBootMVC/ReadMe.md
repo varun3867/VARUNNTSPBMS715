@@ -12,14 +12,14 @@
 > #### Sep 16 2022 -- Spring Boot MVC Intro
 >
 > - Sample Application on MVC+FrontController Architecture with the support of servlet, jsp technologies
-> Project Name : <em>**`MVC-FrontController-JEE`**</em>
+> - Project Name : <em>**`MVC-FrontController-JEE`**</em>
 > - File Name : <em>**`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-2022.png`**</em>
 
 > #### Sep 17 2022 -- Spring Boot MVC Intro
 >
 > - Sample Application on MVC+FrontController Architecture with the support of servlet, jsp technologies
 > - Sample Application Flow
-> Project Name : <em>**`MVC-FrontController-JEE`**</em>
+> - Project Name : <em>**`MVC-FrontController-JEE`**</em>
 > - File Name : <em>**`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-17th-2022.png`**</em>
 
 > #### Sep 18 2022 -- Spring Boot MVC Intro
