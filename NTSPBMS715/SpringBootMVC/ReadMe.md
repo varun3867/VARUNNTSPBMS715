@@ -1,11 +1,11 @@
 # SpringBoot MVC -- Should Install Eclipse JEE Flavour
 
 > #### Sep 14 2022 -- Spring Boot MVC Intro
->
-> - ######Topics
->> - Different models of developing java web application
->> -  <em>**`Front Controller`**</em>
->> - Limitations of MVC+Front Controller Architecture when it is implemented with the support of servlet, jsp technologies without using frameworks.
+
+> - <em>**`Topics:`**</em>
+>     - Different models of developing java web application
+>     -  <em>**`Front Controller`**</em>
+>     - Limitations of MVC+Front Controller Architecture when it is implemented with the support of servlet, jsp technologies without using frameworks.
 > - <em>**`File Name :`**</em> *NTSPBMS715- spring Boot MVC Intro -- sept 14th-2022.png*
 
 > #### Sep 15 2022 -- No Class
