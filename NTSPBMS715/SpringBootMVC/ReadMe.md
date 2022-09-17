@@ -5,15 +5,15 @@
 > - Different models of developing java web application
 > -  <em>**`Front Controller`**</em>
 > - Limitations of MVC+Front Controller Architecture when it is implemented with the support of servlet, jsp technologies without using frameworks.
-> - File Name : <em>**`NTSPBMS715- spring Boot MVC Intro -- sept 14th-2022.png`**</em>
+> - <em>**`File Name :`**</em> NTSPBMS715- spring Boot MVC Intro -- sept 14th-2022.png
 
 > #### Sep 15 2022 -- No Class
 
 > #### Sep 16 2022 -- Spring Boot MVC Intro
 >
 > - Sample Application on MVC+FrontController Architecture with the support of servlet, jsp technologies
-> - Project Name : <em>**`MVC-FrontController-JEE`**</em>
-> - File Name : <em>**`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-2022.png`**</em>
+> - <em>**`Project Name :`**</em> MVC-FrontController-JEE`**</em>
+> - <em>**`File Name :`**</em> NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-2022.png
 
 > #### Sep 17 2022 -- Spring Boot MVC Intro
 >
