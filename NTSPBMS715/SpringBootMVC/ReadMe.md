@@ -27,6 +27,7 @@
 >     - <em>**`Dispatcher Servelet`**</em> of Spring MVC / Spring Boot MVC (with Diagram)
 >     - How many ways are there to configure/map servlet component with servlet Container
 >     - Asked to Watch this video to understand how servlet component is mapped to servelt container [Dynamic Servlet Registration](https://www.youtube.com/watch?v=aRscgj17HuI)
+>     - <em>**`File Name :`**</em> *`AJ4pm- Dynamic Registration of Servlet comp-jan10th.png`*
 > - <em>**`Project Name :`**</em> *`MVC-FrontController-JEE`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-17th-2022.png`*
 
