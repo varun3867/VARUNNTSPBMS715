@@ -14,21 +14,21 @@
 
 > - <em>**`Topics:`**</em>
 >     - Sample Application on MVC+FrontController Architecture with the support of servlet, jsp technologies
-> - <em>**`Project Name :`**</em> *MVC-FrontController-JEE*
-> - <em>**`File Name :`**</em> *NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-2022.png*
+> - <em>**`Project Name :`**</em> *`MVC-FrontController-JEE`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-2022.png`*
 
 > #### Sep 17 2022 -- Spring Boot MVC Intro
 
 > - <em>**`Topics:`**</em>
 >     - Sample Application on MVC+FrontController Architecture with the support of servlet, jsp technologies
 >     - Sample Application Flow
-> - <em>**`Project Name :`**</em> *MVC-FrontController-JEE*
-> - <em>**`File Name :`**</em> *NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-17th-2022.png*
+> - <em>**`Project Name :`**</em> *`MVC-FrontController-JEE`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-17th-2022.png`*
 
 > #### Sep 18 2022 -- Spring Boot MVC Intro
 
 > - <em>**`Topics:`**</em>
 >     - Advantages of using MVC web applications using Java MVC Frameworks
 >     - <em>**`Dispatcher Servelet`**</em> of Spring MVC / Spring Boot MVC
-> - <em>**`Project Name : `**</em>
-> - <em>**`File Name : `**</em>
+> - <em>**`Project Name : `**</em> *`ProjectName`*
+> - <em>**`File Name : `**</em> *`FileName`*
