@@ -1,7 +1,6 @@
 # SpringBoot MVC -- Should Install Eclipse JEE Flavour
 
 > #### Sep 14 2022 -- Spring Boot MVC Intro
-
 > - <em>**`Topics:`**</em>
 >     - Different models of developing java web application
 >     -  <em>**`Front Controller`**</em> (with Diagram)
@@ -12,14 +11,12 @@
 > #### Sep 15 2022 -- No Class
 
 > #### Sep 16 2022 -- Spring Boot MVC Intro
-
 > - <em>**`Topics:`**</em>
 >     - Sample Application on MVC+FrontController Architecture using JEE Technologies(servlet, jsp)
 > - <em>**`Project Name :`**</em> *`MVC-FrontController-JEE`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-2022.png`*
 
 > #### Sep 17 2022 -- Spring Boot MVC Intro
-
 > - <em>**`Topics:`**</em>
 >     - Sample Application on MVC+FrontController Architecture using JEE Technologies(servlet, jsp)
 >     - Sample Application Flow
