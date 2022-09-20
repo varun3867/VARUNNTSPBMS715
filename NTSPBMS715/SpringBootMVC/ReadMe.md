@@ -43,5 +43,5 @@
 >     - Allowed Return Types are
 >     - The Possible parameters types are
 >     - HandlerMapping Component
->     - ViewResolVer
+>     - ViewResolver
 > - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-2022.png`*
