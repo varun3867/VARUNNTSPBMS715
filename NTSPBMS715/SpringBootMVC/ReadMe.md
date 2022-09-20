@@ -38,5 +38,10 @@
 
 > #### Sep 20 2022 -- Spring MVC/ Spring boot MVC Flow
 > - <em>**`Topics:`**</em>
->     - <em>**`Spring MVC / Spring Boot MVC Flow`**</em> with diagram
-> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC Flow -- sept 19th-2022.png`*
+>     - In Spring Boot MVC app, the following operations take place automatically
+>     - Controller class / Handler class
+>     - Allowed Return Types are
+>     - The Possible parameters types are
+>     - HandlerMapping Component
+>     - ViewResolVer
+> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-2022.png`*
