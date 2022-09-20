@@ -33,10 +33,8 @@
 
 > #### Sep 18 2022 -- Sunday
 
-> #### Sep 19 2022 -- Spring Boot MVC Intro
+> #### Sep 19 2022 -- Spring MVC/ Spring boot MVC Flow
 
 > - <em>**`Topics:`**</em>
->     - Advantages of using MVC web applications using Java MVC Frameworks
->     - <em>**`Dispatcher Servelet`**</em> of Spring MVC / Spring Boot MVC
-> - <em>**`Project Name : `**</em> *`ProjectName`*
-> - <em>**`File Name : `**</em> *`FileName`*
+>     - <em>**`Spring MVC / Spring Boot MVC Flow`**</em> with diagram
+> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC Flow -- sept 19th-2022.png`*
