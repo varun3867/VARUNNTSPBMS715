@@ -34,7 +34,6 @@
 > #### Sep 18 2022 -- Sunday
 
 > #### Sep 19 2022 -- Spring MVC/ Spring boot MVC Flow
-
 > - <em>**`Topics:`**</em>
 >     - <em>**`Spring MVC / Spring Boot MVC Flow`**</em> with diagram
 > - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC Flow -- sept 19th-2022.png`*
