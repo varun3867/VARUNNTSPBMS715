@@ -55,4 +55,5 @@
 > #### Sep 22 2022 -- Spring MVC/ Spring boot MVC Flow
 > - <em>**`Topics:`**</em>
 >     - Procedure to develop First spring boot MVC app that shows the private area jsp file as the homepage of the web application.
+> - <em>**`Project Name :`**</em> *`Project Name`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-21st-2022.png`*
