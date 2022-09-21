@@ -43,15 +43,16 @@
 >     - Allowed Return Types are
 >     - The Possible parameters types are
 >     - HandlerMapping Component
->     - ViewResolver
 > - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-2022.png`*
 
 > #### Sep 21 2022 -- Spring MVC/ Spring boot MVC Flow
 > - <em>**`Topics:`**</em>
->     - In Spring Boot MVC app, the following operations take place automatically
->     - Controller class / Handler class
->     - Allowed Return Types are
->     - The Possible parameters types are
->     - HandlerMapping Component
 >     - ViewResolver
-> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-2022.png`*
+>     - Private Area and Publiv area in Spring MVC/Spring boot MVC Projects
+>     - Story board of First Spring boot MVC Web application to display the homepage(jsp of private area) for given implicit request.
+> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-21st-2022.png`*
+
+> #### Sep 22 2022 -- Spring MVC/ Spring boot MVC Flow
+> - <em>**`Topics:`**</em>
+>     - Procedure to develop First spring boot MVC app that shows the private area jsp file as the homepage of the web application.
+> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-21st-2022.png`*
