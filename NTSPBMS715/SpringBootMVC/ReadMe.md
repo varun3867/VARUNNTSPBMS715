@@ -60,3 +60,42 @@
 >         - How to make welcome file effect in spring boot mvc application ?
 > - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-21st- 22nd-2022.png`*
+
+> #### Sep 22 2022 -- Spring MVC/ Spring boot MVC Flow
+> - <em>**`Topics:`**</em>
+>     - Procedure to develop First spring boot MVC app that shows the private area jsp file as the homepage of the web application.
+>     - Questions :
+>         - How to provide ContextPath to the Spring Boot MVC web application when it is executed as standalone app on Embeded Tomcat Server ?
+>         - How to make welcome file effect in spring boot mvc application ?
+> - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-21st- 22nd-2022.png`*
+
+> #### Sep 22 2022 -- Spring MVC/ Spring boot MVC Flow
+> - <em>**`Topics:`**</em>
+>     - Procedure to develop First spring boot MVC app that shows the private area jsp file as the homepage of the web application.
+>     - Questions :
+>         - How to provide ContextPath to the Spring Boot MVC web application when it is executed as standalone app on Embeded Tomcat Server ?
+>         - How to make welcome file effect in spring boot mvc application ?
+> - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715- spring Boot MVC  Code Flow --Sept 20th-21st- 22nd-2022.png`*
+
+> #### Sep 26 2022 -- Data Rendering Options
+> - <em>**`Topics:`**</em>
+>     - How data get renders with diagram.
+>     - The handler method of controller class can refer to BindingAwareModelMap object by taking the following parameters of following type
+>     - Example#1 : Taking Map<String,Object> as parameter for handler method
+>     - Example#2 : Taking Model as parameter for handler method.
+>     - Example#3 : Taking ModelMap as parameter for handler method
+>     - Taking handler method return type as Model
+>     - Taking Map<String,Object> as return type of Handler method
+>     - Taking ModelAndView(legacy style) as the return type of Handler method.
+>     - Limitations of taking Model, Map<String,Object>, HashMap and etc.. as the return type of Handler method.
+>     - Advantages of taking Map<String,Object>, Model etc.. as the parameter types of handler method.
+>     - What happens if the returns type of handler method is void ?
+>     - What happens if the handler method returns null?
+>     - How can we forward the request from one handler method to another handler method?
+>     - How can we redirect one handler method request to another handler method ?
+>     - Can we place return statement in the method whose return type is void ?
+>     - What is the best signature of handler method?
+>     - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
+>     - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 26th-2022.png`*
