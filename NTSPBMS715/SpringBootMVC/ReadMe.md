@@ -111,7 +111,7 @@
 > - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 27th-2022.png`*
 
-> #### Sep 28 2022 -- Data Rendering Options
+> #### Sep 28 2022 -- More on request paths
 > - <em>**`Topics:`**</em>
 >     - Code
 >     - Understanding end to end points of request paths
@@ -124,9 +124,9 @@
 >          - Two handler methods of controller class can have same request path having two different request modes like GET, POST.
 >          - What happens if two handler methods of a controller class having same request path and same request mode ?
 > - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
-> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 28th-2022.png`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  More on Request Paths- sept 28th-2022.png`*
 
-> #### Sep 29 2022 -- Data Rendering Options
+> #### Sep 29 2022 -- More on request paths
 > - <em>**`Topics:`**</em>
 >     - Code
 >     - Understanding end to end points of request paths
@@ -139,4 +139,4 @@
 >          - Two handler methods of controller class can have same request path having two different request modes like GET, POST.
 >          - What happens if two handler methods of a controller class having same request path and same request mode ?
 > - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
-> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 28th-2022.png`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  More on Request Paths- sept 28th-2022.png`*
