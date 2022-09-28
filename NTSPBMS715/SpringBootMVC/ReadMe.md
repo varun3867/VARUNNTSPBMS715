@@ -99,3 +99,20 @@
 >     - What is the best signature of handler method?
 > - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 26th-2022.png`*
+
+
+> #### Sep 27 2022 -- Data Rendering Options
+> - <em>**`Topics:`**</em>
+>     - How can we redirect one handler method request to another handler method ?
+>     - Can we place return statement in the method whose return type is void ?
+>     - What is the best signature of handler method?
+> - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 26th-2022.png`*
+
+> #### Sep 28 2022 -- Data Rendering Options
+> - <em>**`Topics:`**</em>
+>     - How can we redirect one handler method request to another handler method ?
+>     - Can we place return statement in the method whose return type is void ?
+>     - What is the best signature of handler method?
+> - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 26th-2022.png`*
