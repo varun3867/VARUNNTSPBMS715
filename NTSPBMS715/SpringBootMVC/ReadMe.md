@@ -103,16 +103,40 @@
 
 > #### Sep 27 2022 -- Data Rendering Options
 > - <em>**`Topics:`**</em>
->     - How can we redirect one handler method request to another handler method ?
->     - Can we place return statement in the method whose return type is void ?
->     - What is the best signature of handler method?
+>     - How to get request, response objects in the handler methods ?
+>     - How to pass HttpSession object to handler method of controller class ?
+>     - How to pass ServletConfig object and ServletContext objects to controller class handler method ?
+>     - How to send output from Handler method directly to browser without involving ViewResolver and view comps ?
+>.    - Developing Spring boot MVC App having service class with B.method with diagram
 > - <em>**`Project Name :`**</em> *`MVCBootProj1-ShowingHomePage`*
-> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 26th-2022.png`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 27th-2022.png`*
 
 > #### Sep 28 2022 -- Data Rendering Options
 > - <em>**`Topics:`**</em>
->     - How can we redirect one handler method request to another handler method ?
->     - Can we place return statement in the method whose return type is void ?
->     - What is the best signature of handler method?
+>     - Code
+>     - Understanding end to end points of request paths
+>          - request path of handler method must start with "/"
+>          - request path is case-sensitive in the handler methods of one or more controller classes.
+>          - one handler method can be mapped with multiple request path.
+>          - What happens, if the request path is "/" for the handler method?
+>          - If no request path is given for handler method, the default request path will be "/"
+>          - Taking request path as "/" is equal to not having any request path
+>          - Two handler methods of controller class can have same request path having two different request modes like GET, POST.
+>          - What happens if two handler methods of a controller class having same request path and same request mode ?
 > - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
-> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 26th-2022.png`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 28th-2022.png`*
+
+> #### Sep 29 2022 -- Data Rendering Options
+> - <em>**`Topics:`**</em>
+>     - Code
+>     - Understanding end to end points of request paths
+>          - request path of handler method must start with "/"
+>          - request path is case-sensitive in the handler methods of one or more controller classes.
+>          - one handler method can be mapped with multiple request path.
+>          - What happens, if the request path is "/" for the handler method?
+>          - If no request path is given for handler method, the default request path will be "/"
+>          - Taking request path as "/" is equal to not having any request path
+>          - Two handler methods of controller class can have same request path having two different request modes like GET, POST.
+>          - What happens if two handler methods of a controller class having same request path and same request mode ?
+> - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  Data Rendering options - sept 28th-2022.png`*
