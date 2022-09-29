@@ -120,7 +120,7 @@
 >          - one handler method can be mapped with multiple request path.
 >          - What happens, if the request path is "/" for the handler method?
 >          - If no request path is given for handler method, the default request path will be "/"
->          - Taking request path as "/" is equal to not having any request path
+>          - Taking request path as "/" is equal to not taking any request path
 >          - Two handler methods of controller class can have same request path having two different request modes like GET, POST.
 >          - What happens if two handler methods of a controller class having same request path and same request mode ?
 > - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
