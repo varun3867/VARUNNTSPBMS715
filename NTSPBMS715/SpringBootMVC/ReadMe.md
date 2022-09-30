@@ -137,8 +137,6 @@
 >          - The request given to one handler method of one controller class can be forwarded to another method of same handler calss or different    handler class by using "forward:xxxx" concept which internally uses rd.forward(-,-) for forwarding the request.(This concept is called Handler method chaining).
 >          - We can perform handler method chaining using "redirect:xxxx" statement which internally uses send Redirection with the support of response.sendRedirect(-) method.
 >          - What is the difference between FrontController and Controller/Handler class.
->     - Understanding end to end points of request paths
->          - What happens if two handler methods of a controller class having same request path and same request mode ?
 >     - Passing different kinds of data/values from Controller comps to View comps using Data Rendering Techniques.
 >          - Passing Simple values
 >          - Passing Collections and Arrays (Usage of JSTL is required).
