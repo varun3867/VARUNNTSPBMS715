@@ -142,6 +142,5 @@
 >          - Passing Collections and Arrays (Usage of JSTL is required).
 >          - Passing Model class objs.
 >          - Passing collection of Model class objects.
->          
-> - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
-> - <em>**`File Name : `**</em> *`NTSPBMS715-  More on Request Paths- sept 28th-2022.png`*
+> - <em>**`Project Name :`**</em> *`MVCBootProj3-DataRendering`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  More on Request Paths- sept 28th-29th-2022.png`*
