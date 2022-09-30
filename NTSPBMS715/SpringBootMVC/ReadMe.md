@@ -130,13 +130,18 @@
 > - <em>**`Topics:`**</em>
 >     - Code
 >     - Understanding end to end points of request paths
->          - request path of handler method must start with "/"
->          - request path is case-sensitive in the handler methods of one or more controller classes.
->          - one handler method can be mapped with multiple request path.
->          - What happens, if the request path is "/" for the handler method?
->          - If no request path is given for handler method, the default request path will be "/"
->          - Taking request path as "/" is equal to not taking any request path
->          - Two handler methods of controller class can have same request path having two different request modes like GET, POST.
 >          - What happens if two handler methods of a controller class having same request path and same request mode ?
+>          - In Spring MVC/Springboot MVC maximum two methods can have same request path one method with "GET" mode and another method with "POST".
+>          - In Spring MVC/Springboot MVC maximum two methods of a controller class can be there without request path.
+>          - What happens if two handler methods of two different controller classes are having same request path ?
+>          - The request given to one handler method of one controller class can be forwarded to another method of same handler calss or different    handler class by using "forward:xxxx" concept which internally uses rd.forward(-,-) for forwarding the request.(This concept is called Handler method chaining).
+>          - We can perform handler method chaining using "redirect:xxxx" statement which internally uses send Redirection with the support of response.sendRedirect(-) method.
+>          - What is the difference between FrontController and Controller/Handler class.
+>    - Passing different kinds of data/values from Controller comps to View comps using Data Rendering Techniques.
+>          - Passing Simple values
+>          - Passing Collections and Arrays (Usage of JSTL is required).
+>          - Passing Model class objs.
+>          - Passing collection of Model class objects.
+>          
 > - <em>**`Project Name :`**</em> *`MVCBootProj2-DataRendering`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  More on Request Paths- sept 28th-2022.png`*
