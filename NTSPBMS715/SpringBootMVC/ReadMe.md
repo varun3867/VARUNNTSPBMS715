@@ -160,5 +160,15 @@
 >               - To bind form data(form page form comp values) to Model class/Command class obj we need to do following operations.
 >               - Diagramatic representation with Internal Flow with numberings and Internal Flow activities for Numberings end to end (MVC Theory/MVC Flow).
 >               - Example App Story Board.
+>               - Step by Step Code writings for data Binding
 >               - <em>**`Project Name :`**</em> *`BootMVCProj04-DataBinding-FormBinding`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -Data Binding- oct 1st- 2022.png`*
+
+> #### Oct 02 2022 -- Sunday
+
+> #### Oct 03 2022 -- Data Binding
+> - <em>**`Topics:`**</em>
+>               - Diagramatic representation and Internal Flow with numbering
+>               - Step by Step code writing
+>               - <em>**`Project Name :`**</em> *`MVCBootProj04-FormDataBinding`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  -Data Binding- oct 1st- 3rd- 2022.png`*
