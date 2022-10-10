@@ -157,8 +157,8 @@
 >     - Data Rendering and Data Binding definations
 >     - Two ways of binding
 >           - Passing form data to controller class handler method as Model class obj using @ModelAttribute(-) annotation.
->                     - To bind form data(form page form comp values) to Model class/Command class obj we need to do following operations.
->                     - Diagramatic representation with Internal Flow with numberings and Internal Flow activities for Numberings end to end (MVC Theory/MVC Flow).
->                     - Example App Story Board.
->                     - <em>**`Project Name :`**</em> *`BootMVCProj04-DataBinding-FormBinding`*
+>                    1. To bind form data(form page form comp values) to Model class/Command class obj we need to do following operations.
+>                    2. Diagramatic representation with Internal Flow with numberings and Internal Flow activities for Numberings end to end (MVC Theory/MVC Flow).
+>                    3. Example App Story Board.
+>                    4. <em>**`Project Name :`**</em> *`BootMVCProj04-DataBinding-FormBinding`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -Data Binding- oct 1st- 2022.png`*
