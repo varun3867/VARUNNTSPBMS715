@@ -150,15 +150,15 @@
 > #### Oct 01 2022 -- Data Binding
 > - <em>**`Topics:`**</em>
 >     - Passing different kinds of data/values from Controller comps to View Comps using Data Rendering techniques.
->           - Passing simple values
->           - Passing collection and arrays
->           - Passing model class objects
->           - Passing collection of model class objects
+>          - Passing simple values
+>          - Passing collection and arrays
+>          - Passing model class objects
+>          - Passing collection of model class objects
 >     - Data Rendering and Data Binding definations
 >     - Two ways of binding
->           - Passing form data to controller class handler method as Model class obj using @ModelAttribute(-) annotation.
->                    1. To bind form data(form page form comp values) to Model class/Command class obj we need to do following operations.
->                    2. Diagramatic representation with Internal Flow with numberings and Internal Flow activities for Numberings end to end (MVC Theory/MVC Flow).
->                    3. Example App Story Board.
->                    4. <em>**`Project Name :`**</em> *`BootMVCProj04-DataBinding-FormBinding`*
+>          - Passing form data to controller class handler method as Model class obj using @ModelAttribute(-) annotation.
+>               - To bind form data(form page form comp values) to Model class/Command class obj we need to do following operations.
+>               - Diagramatic representation with Internal Flow with numberings and Internal Flow activities for Numberings end to end (MVC Theory/MVC Flow).
+>               - Example App Story Board.
+>               - <em>**`Project Name :`**</em> *`BootMVCProj04-DataBinding-FormBinding`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -Data Binding- oct 1st- 2022.png`*
