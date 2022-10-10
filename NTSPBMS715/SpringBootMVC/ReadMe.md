@@ -168,9 +168,9 @@
 
 > #### Oct 03 2022 -- Data Binding
 > - <em>**`Topics:`**</em>
->               - Diagramatic representation and Internal Flow with numbering
->               - Step by Step code writing
->               - <em>**`Project Name :`**</em> *`MVCBootProj04-FormDataBinding`*
+>     - Diagramatic representation and Internal Flow with numbering
+>     - Step by Step code writing
+>     - <em>**`Project Name :`**</em> *`MVCBootProj04-FormDataBinding`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -Data Binding- oct 1st- 3rd- 2022.png`*
 
 > #### Oct 04 - Oct 09 2022 -- Dusserah Holidays
