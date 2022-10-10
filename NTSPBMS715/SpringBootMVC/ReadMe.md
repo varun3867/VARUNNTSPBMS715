@@ -177,7 +177,7 @@
 
 > #### Oct 10 2022 -- Form Data Binding using Spring MVC tags
 > - <em>**`Topics:`**</em>
->               - Form Data binding to Model class object using spring MVC supplied jsp tags.
->               - Spring MVC/Spring boot MVC gives two jsp taglibraries.
->               - <em>**`Project Name :`**</em> *`MVCBootProj05-FormDataBindingUsingMvcTags`*
+>     - Form Data binding to Model class object using spring MVC supplied jsp tags.
+>     - Spring MVC/Spring boot MVC gives two jsp taglibraries.
+>     - <em>**`Project Name :`**</em> *`MVCBootProj05-FormDataBindingUsingMvcTags`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -Form Data Binding using - spring MVC tags -- oct 10th-2022.png`*
