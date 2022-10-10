@@ -146,3 +146,10 @@
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  More on Request Paths- sept 28th-29th-2022.png`*
 
 > #### Sep 30 2022 -- No Class
+
+> #### Oct 01 2022 -- Data Binding
+> - <em>**`Topics:`**</em>
+>     - pen
+>     - pen
+> - <em>**`Project Name :`**</em> *`MVCBootProj3-DataRendering`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  More on Request Paths- sept 28th-29th-2022.png`*
