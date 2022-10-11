@@ -203,5 +203,5 @@
 >     - Usecase of @RequestParam in real applications.
 >     - Usecase 2
 >     - If handler method of controller class is excepting two(only few request param from the request).. but if we give more than that .. then we will not get any problem. 
->     - <em>**`Project Name :`**</em> *`MVCBootProj06-DataBindingUsingRequestParams`*
+> - <em>**`Project Name :`**</em> *`MVCBootProj06-DataBindingUsingRequestParams`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -Data Binding using @RequestParam- 11th oct- 2022.png`*
