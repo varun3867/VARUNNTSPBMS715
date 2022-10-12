@@ -185,23 +185,16 @@
 >     - <em>**`Project Name :`**</em> *`MVCBootProj05-FormDataBindingUsingMvcTags`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -Form Data Binding using - spring MVC tags -- oct 10th-2022.png`*
 
-> #### Oct 11 2022 -- Data Binding using @RequestParam
+> #### Oct 12 2022 -- MiniProject Performing CRUD Operations
 > - <em>**`Topics:`**</em>
->     - What is the difference between form pages using html form tags and spring mvc supplied jsp form tags?
->     - Data Binding using @RequestParam (Binding request param values to handler method params).
->     - If request params names are matching with handler method param names then there is no need of giving request param names in @RequestParam annotation.
->     - If any request param name is not matching with @RequestParam attribute name or method param name of handler method then we get exception.
->     - By default @RequestParam based method params should be filled because the default value for 'required' attribute in @RequestParam is true.
->          - Solution - 1 : take required=false in @RequestParam annotation.
->          - Solution - 2 : take default value for the request param in @ReqestParam
->     - What is the difference between required='false' and defaultValue of @RequestParam annotation ?
->     - for numeric type method param, if we try to pass string type value from request param then we get Number Format Exception..  No Solution for this problem except passing correct format value.
->     - For numberic type method param of handler method, if u try to pass no value or empty string "" then also we get NumberFormatException.. This problem can be solved using "defaultValue" or required=false with Wrapper type params.
->          - Solution - 1 : Assign default value of handler method parameter.
->          - Solution - 2 : take required=false having wrapper type method param
->     - If we pass the same request param with multiple values in the query string to bind then for handler method parameter we can take the parameter type as the array or List or Set type as shown below.
->     - Usecase of @RequestParam in real applications.
->     - Usecase 2
->     - If handler method of controller class is excepting two(only few request param from the request).. but if we give more than that .. then we will not get any problem. 
-> - <em>**`Project Name :`**</em> *`MVCBootProj06-DataBindingUsingRequestParams`*
-> - <em>**`File Name : `**</em> *`NTSPBMS715-  -Data Binding using @RequestParam- 11th oct- 2022.png`*
+>     - Springboot  MVC based Layered Application.
+>     - Step by Step execution from Step-1 to Step-12
+> - <em>**`Project Name :`**</em> *`MVCBootProj07-MiniProject-CRUDOperations`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  -MiniProject -Perrforming CURDOperations-oct12th-2022.png`*
+
+> #### Oct 13 2022 -- MiniProject Performing CRUD Operations
+> - <em>**`Topics:`**</em>
+>     - Springboot  MVC based Layered Application.
+>     - Step by Step execution from Step-1 to Step-12
+> - <em>**`Project Name :`**</em> *`MVCBootProj07-MiniProject-CRUDOperations`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  -MiniProject -Perrforming CURDOperations-oct12th-2022.png`*
