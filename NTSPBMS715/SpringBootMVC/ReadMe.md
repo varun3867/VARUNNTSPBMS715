@@ -213,7 +213,7 @@
 > #### Oct 25 2022 -- Handler Interceptor
 > - <em>**`Topics:`**</em>
 >     - Handler Interceptor
->     - Method Signature and usecases
->     - Example App
+>     - Method Signature of HandlerInterceptor class and usecases
+>     - Example App with step to step implementation.
 > - <em>**`Project Name :`**</em> *`MVCBootProj13-MiniProject-HandlerInterceptor`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715- Spring Boot MVC -Handler Interceptor -oct25th.png`*
