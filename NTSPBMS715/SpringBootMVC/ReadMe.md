@@ -194,7 +194,26 @@
 
 > #### Oct 13 2022 -- MiniProject Performing CRUD Operations
 > - <em>**`Topics:`**</em>
->     - Springboot  MVC based Layered Application.
->     - Step by Step execution from Step-1 to Step-12
+>     - Pending
+>     - Pending
+>     - Pending..........
+>     - Pending..........
 > - <em>**`Project Name :`**</em> *`MVCBootProj07-MiniProject-CRUDOperations`*
 > - <em>**`File Name : `**</em> *`NTSPBMS715-  -MiniProject -Perrforming CURDOperations-oct12th-2022.png`*
+
+> #### Oct 14 2022 -- MiniProject Performing CRUD Operations
+> - <em>**`Topics:`**</em>
+>     - Pending
+>     - Pending
+>     - Pending..........
+>     - Pending..........
+> - <em>**`Project Name :`**</em> *`MVCBootProj07-MiniProject-CRUDOperations`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715-  -MiniProject -Perrforming CURDOperations-oct12th-2022.png`*
+
+> #### Oct 25 2022 -- Handler Interceptor
+> - <em>**`Topics:`**</em>
+>     - Handler Interceptor
+>     - Method Signature and usecases
+>     - Example App
+> - <em>**`Project Name :`**</em> *`MVCBootProj13-MiniProject-HandlerInterceptor`*
+> - <em>**`File Name : `**</em> *`NTSPBMS715- Spring Boot MVC -Handler Interceptor -oct25th.png`*
