@@ -60,8 +60,52 @@
 
 > #### March 21 2022 -- spring core module
 > - <em>**`Topics:`**</em>
->     - Pending...
+>     - Spring defination
+>       - Open source
+>       - Light weight
+>       - Loosly coupled
+>       - Non-Invasive
+>       - Aspect oriented
+>     - Problem with OOP style application development
+>     - Solution is go for AOP style programming
+>     - AOP Stype Programming Advantage
 > - <em>**`File Name :`**</em> *`Spring Basics/NTSPBMS715-March-21st-2022- spring core module.png`*
 
+> #### March 22 2022 -- spring core module
+> - <em>**`Topics:`**</em>
+>     - Embeded Server, Embeded DB, AutoC-Configuration.
+>     - Spring Core Module
+>       - Opertaion, types of containers
+>       - Spring bean life cycle management
+>       - Spring bean dependency Management
+>       - Diagram for how spring container do spring bean dependency management.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-22nd-2022- spring core module.png`*
+
+> #### March 23 2022 -- spring core module
+> - <em>**`Topics:`**</em>
+>     - Spring bean dependency Management
+>     - Two modes of dependency management
+>        - Depedency Lookup
+>           - Dependency Lookup code(jndi lookup) in taget class to get datasource object ref from Jndi registry.
+>           - pros and cons of dependency lookup.
+>        - Dependency Injection
+>           - Definition
+>           - pros and cons of dependency injection
+>     - Conclusion.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-23rd-2022- spring core module.png`*
+
+
+> #### March 24 2022 -- spring core module
+> - <em>**`Topics:`**</em>
+>     - Spring bean dependency Management
+>     - Two modes of dependency management
+>        - Depedency Lookup
+>           - Dependency Lookup code(jndi lookup) in taget class to get datasource object ref from Jndi registry.
+>           - pros and cons of dependency lookup.
+>        - Dependency Injection
+>           - Definition
+>           - pros and cons of dependency injection
+>     - Conclusion.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-23rd-2022- spring core module.png`*
 > #### March 25 2022 -- No Class
 
