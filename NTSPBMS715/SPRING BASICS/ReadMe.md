@@ -33,7 +33,15 @@
 
 > #### March 18 2022 -- POJO-POJI-JavaBean-Bean class-
 > - <em>**`Topics:`**</em>
->     - Pending...
+>     - Java Bean
+>     - Standards to follow for developing java bean
+>     - Example class
+>     - Need of java bean in real project
+>     - Problem (Design java method having more than 3 parameters is bad practise)
+>     - Limitation of taking java method having more than 3 parameters.
+>     - Solution (Design java method having java bean type parameter)
+>     - Advantages of taking java bean class as parameter type.
+>     - conclusion
 > - <em>**`File Name :`**</em> *`Spring Basics/NTSPBMS715-March18th-2022- POJO-POJI-JavaBean-Bean class- Spring Bean.png`*
 
 
