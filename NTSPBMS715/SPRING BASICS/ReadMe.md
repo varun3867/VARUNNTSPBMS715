@@ -25,7 +25,7 @@
 >     - Pending...
 > - <em>**`File Name :`**</em> *`Spring Basics/NTSPBMS715-March16th-2022- Different types of Frameworks.png`*
 
-> #### March 17 2022 -- POJO-POJI-JavaBean-Bean class-
+> #### March 17 2022 -- Different types of Frameworks.png
 > - <em>**`Topics:`**</em>
 >     - Pending...
 > - <em>**`File Name :`**</em> *`Spring Basics/NTSPBMS715-March17th-2022- Different types of Frameworks.png`*
