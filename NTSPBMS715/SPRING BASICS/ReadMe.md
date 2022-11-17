@@ -151,4 +151,12 @@
 >     - Step by step execution in depth 
 > - <em>**`File Name :`**</em> *`NTSPBMS715-March-31st-2022- Setter Injection First Application Flow of execution.png*
 
-
+> #### April 01 2022 -- Reflection API
+> - <em>**`Topics:`**</em>
+>     - Does the BeanFactory container performs lazy instantiation of spring beans or not ?
+>     - Limitation of new Operator
+>     - Two approaches of reflection api style instantiation.
+>     - Example App
+>     - How to run the app having command line args in eclipse IDE.
+>     - With respect to first app how reflection api works
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-1st -2022-  Reflectiona API.png*
