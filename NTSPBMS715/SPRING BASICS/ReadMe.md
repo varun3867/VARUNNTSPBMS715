@@ -97,15 +97,30 @@
 
 > #### March 24 2022 -- spring core module
 > - <em>**`Topics:`**</em>
->     - Spring bean dependency Management
->     - Two modes of dependency management
->        - Depedency Lookup
->           - Dependency Lookup code(jndi lookup) in taget class to get datasource object ref from Jndi registry.
->           - pros and cons of dependency lookup.
->        - Dependency Injection
->           - Definition
->           - pros and cons of dependency injection
->     - Conclusion.
-> - <em>**`File Name :`**</em> *`NTSPBMS715-March-23rd-2022- spring core module.png`*
+>     - Setter Injection
+>     - What is composition(HAS-A relationship and IS-A relationship)
+>     - How many ways we can give instructions to spring contianer?
+>     - Setter injection sample code using xml driven cfgs.
+>.    - Explaination on how setter injection works with diagram.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-24th-2022- spring core module.png `*
+
 > #### March 25 2022 -- No Class
+
+> #### March 26 2022 -- Setter Injection
+> - <em>**`Topics:`**</em>
+>     - Basics of xml
+>     - What is XSD/DTD ? XSD/DTD rules doc contains .
+>     - In XSD :
+>     - Important XSD namespaces in spring framework.
+>.    - Explaination on how setter injection works with diagram.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-26th-2022- Setter Injection.png`*
+
+> #### March 27 2022 -- spring core module
+> - <em>**`Topics:`**</em>
+>     - Setter Injection
+>     - What is XSD/DTD ? XSD/DTD rules doc contains .
+>     - In XSD :
+>     - Important XSD namespaces in spring framework.
+>.    - Explaination on how setter injection works with diagram.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-24th-2022- spring core module.png `*
 
