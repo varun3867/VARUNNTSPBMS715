@@ -126,24 +126,17 @@
 >     - Client App development
 >     - Sample code to create BeanFactory contianer using XMLBeanFactory class.
 >     - getting spirng bean class object from spring container and invoking methods on it.
->     - applicationContext.xml with diagram.
+>     - applicationContext.xml with diagram. (step by step executionwith alphabet representation)
 >     - Complete Client App code.
->     - procedure to first Spring app(setter injection) suing elipse IDE + maven tool.
+>     - ****** procedure to first Spring app(setter injection) suing elipse IDE + maven tool.
 >     - software setup
 >     - MAVEN
 >     - Step for the creation of first spring app.
 > - <em>**`File Name :`**</em> *`NTSPBMS715-March-28th-2022- Setter Injection.png`*
 
-> #### March 28 2022 -- Setter Injection
+> #### March 29 2022 -- Setter Injection First Application
 > - <em>**`Topics:`**</em>
->     - Client App development
->     - Sample code to create BeanFactory contianer using XMLBeanFactory class.
->     - getting spirng bean class object from spring container and invoking methods on it.
->     - applicationContext.xml with diagram.
->     - Complete Client App code.
->     - procedure to first Spring app(setter injection) suing elipse IDE + maven tool.
->     - software setup
->     - MAVEN
->     - Step for the creation of first spring app.
+>     - procedure to first Spring app(setter injection) using elipse IDE + maven tool.
+>     - What is IOC Container and why spring container is called IOC container ?
 > - <em>**`File Name :`**</em> *`NTSPBMS715-March-28th-2022- Setter Injection.png`*
 
