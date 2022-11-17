@@ -115,12 +115,35 @@
 >.    - Explaination on how setter injection works with diagram.
 > - <em>**`File Name :`**</em> *`NTSPBMS715-March-26th-2022- Setter Injection.png`*
 
-> #### March 27 2022 -- spring core module
+> #### March 27 2022 -- file not found -- need to check in fb --Pending................................................
 > - <em>**`Topics:`**</em>
->     - Setter Injection
->     - What is XSD/DTD ? XSD/DTD rules doc contains .
->     - In XSD :
->     - Important XSD namespaces in spring framework.
->.    - Explaination on how setter injection works with diagram.
+>     - Pending.......
 > - <em>**`File Name :`**</em> *`NTSPBMS715-March-24th-2022- spring core module.png `*
+
+
+> #### March 28 2022 -- Setter Injection
+> - <em>**`Topics:`**</em>
+>     - Client App development
+>     - Sample code to create BeanFactory contianer using XMLBeanFactory class.
+>     - getting spirng bean class object from spring container and invoking methods on it.
+>     - applicationContext.xml with diagram.
+>     - Complete Client App code.
+>     - procedure to first Spring app(setter injection) suing elipse IDE + maven tool.
+>     - software setup
+>     - MAVEN
+>     - Step for the creation of first spring app.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-28th-2022- Setter Injection.png`*
+
+> #### March 28 2022 -- Setter Injection
+> - <em>**`Topics:`**</em>
+>     - Client App development
+>     - Sample code to create BeanFactory contianer using XMLBeanFactory class.
+>     - getting spirng bean class object from spring container and invoking methods on it.
+>     - applicationContext.xml with diagram.
+>     - Complete Client App code.
+>     - procedure to first Spring app(setter injection) suing elipse IDE + maven tool.
+>     - software setup
+>     - MAVEN
+>     - Step for the creation of first spring app.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-March-28th-2022- Setter Injection.png`*
 
