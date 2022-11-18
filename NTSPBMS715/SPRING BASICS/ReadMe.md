@@ -183,3 +183,14 @@
 >     - conclusion
 >     - GITURL (git url)
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-5th -2022-  setter vs Constructor Injection.png*
+
+> #### April 06 2022 -- No Class
+
+> #### April 07 2022 -- setter vs constructor injection
+> - <em>**`Topics:`**</em>
+>     - What is the difference between setter injection and constructor injection ? (all differences)
+>     - Circular Injection/Cyclic Injection
+>     - Circular Injection using setter injection
+>     - Circular Injection using constructor injection
+>     - What is the difference between IOC and dependency injection ?
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-7th -2022-  setter vs Constructor Injection.png*
