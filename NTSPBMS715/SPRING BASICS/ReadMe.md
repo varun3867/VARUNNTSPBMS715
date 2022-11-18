@@ -160,3 +160,26 @@
 >     - How to run the app having command line args in eclipse IDE.
 >     - With respect to first app how reflection api works
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-1st -2022-  Reflectiona API.png*
+
+> #### April 02 2022 -- No Class
+
+> #### April 03 2022 -- No Class
+
+> #### April 04 2022 -- Constructor Injection
+> - <em>**`Topics:`**</em>
+>     - Constructor injection.
+>     - setter vs constructor injection
+>     - code and step step by execution in deepth with notes[spring flow].
+>     - What happens if we configure both setter injection and constructor injection on the same bean property of spring bean class ?
+>     - What are the types of spring bean properties ?
+> - <em>**`Project :`**</em> *`IOCProj03-ConstructorInjection*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-4th -2022-  constructorInjection.png*
+
+> #### April 05 2022 -- setter vs constructor injection
+> - <em>**`Topics:`**</em>
+>     - What is the difference between FileSystemResource and ClassPathResource ?
+>     - When should I use setter injection and when should I use constructor injection ?
+>     - three different variation
+>     - conclusion
+>     - GITURL (git url)
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-5th -2022-  setter vs Constructor Injection.png*
