@@ -273,11 +273,20 @@
 
 > #### April 16 2022 -- Design Pattern - Strategy Pattern
 > - <em>**`Topics:`**</em>
->     - Principle Rules
->         - P3:Our code must be open for extension and must be closed for modification.
->         - Strategy Pattern implementation using core java
->         - Is the above code is 100% loosely coupled code ?
->             - Properties file
->             - java.util.Properties
-> - <em>**`Project :`**</em> *`IOCProj05-StrategyPattern-CoreJAva*
-> - <em>**`File Name :`**</em> *`NTSPBMS715-April-15th -2022-  FactoryPattern-Strategy Pattern.png*
+>     - Limitations of implementing strategy pattern using core java.
+>     - Strategy DP application using Spring Framework.
+>     - Advantages of developing strategy pattern using Spring Framework.
+>     - Procedure to add STS Plugin to Eclipse IDE.
+> - <em>**`Project :`**</em> *`IOCProj09-StrategyPattern-CoreJAva-PropertiesFile*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-16th -2022-  FactoryPattern-Strategy Pattern.png*
+
+> #### April 17 2022 -- No Class
+
+> #### April 18 2022 -- Design Pattern - Strategy Pattern
+> - <em>**`Topics:`**</em>
+>     - Limitations of implementing strategy pattern using core java.
+>     - Strategy DP application using Spring Framework.
+>     - Advantages of developing strategy pattern using Spring Framework.
+>     - Procedure to add STS Plugin to Eclipse IDE.
+> - <em>**`Project :`**</em> *`IOCProj09-StrategyPattern-CoreJAva-PropertiesFile*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-16th -2022-  FactoryPattern-Strategy Pattern.png*
