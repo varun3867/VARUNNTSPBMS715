@@ -394,7 +394,7 @@
 >     - Important Implementation classes of ApplicationContext
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-29th -2022-  Spring Bean scopes.png`*
 
-> #### April 29 2022 -- ApplicationContext Container features
+> #### April 30 2022 -- ApplicationContext Container features
 > - <em>**`Topics:`**</em>
 >     - Pre-instantiation of singleton scope spring beans.
 >         - How to disable pre-instantiation of singleton scope spring beans ?
