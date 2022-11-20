@@ -295,7 +295,7 @@
 
 > #### April 19 2022 -- Realtime DI - Strategy Pattern
 > - <em>**`Topics:`**</em>
->     -  Service class
+>     - Service class
 >     - Controller class
 >     - Client App
 >     - How IOC container Injects objs in spring application ?
@@ -307,3 +307,49 @@
 >     - Modern Style Layered App.
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-19th -2022-  RealtimeDI-StrategyPattern.png*
 
+> #### April 20 2022 -- Realtime DI - Strategy Pattern
+> - <em>**`Topics:`**</em>
+>     - Problem
+>     - Solution1 : Just Exception propagation using throws keyword.
+>     - Solution2 : Exception Handling + Propagation using try/catch and throws, throw keywords.
+>     - Modern Style Layered App
+>     - How do you propagate the exception raised in DAO class to EndUser through Client App ?
+>     - JDBC code in DAO class using try/catch/finally
+>     - JDBC code in DAO class using try with resource.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-20th -2022-  RealtimeDI-StrategyPattern.png*
+
+> #### April 21 2022 -- Realtime DI - Strategy Pattern
+> - <em>**`Topics:`**</em>
+>     - StoryBoard step by step execution with alphabet pointing.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-21st -2022-  RealtimeDI-StrategyPattern.png*
+
+> #### April 22 2022 -- Realtime DI - Strategy Pattern Coding
+> - <em>**`Topics:`**</em>
+>     - Oracle:Procedure to develop Strategy DP/ Realtime DI application as Mini Projects.(with step by step exectuion)
+> - <em>**`Project :`**</em> *`IOCProj11-StrategyPattern-RealtimeDI-MiniProject*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-22nd -2022-  RealtimeDI-StrategyPattern coding.png*
+
+> #### April 23 2022 -- Realtime DI - Strategy Pattern Coding
+> - <em>**`Topics:`**</em>
+>     - MySQL DB s/w
+>     - Procedure to create Logical DB having Db table with records.
+>     - Procedure to make our MiniProject as loosely coupled Project to change from oracle to mysql and viceversa.
+>     - Step by step modification.
+> - <em>**`Project :`**</em> *`IOCProj12-StrategyPattern-RealtimeDI-MiniProject-1*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-23rd -2022-  RealtimeDI-StrategyPattern coding.png*
+
+> #### April 24 2022 -- No Class
+
+> #### April 25 2022 -- Factory Methods
+> - <em>**`Topics:`**</em>
+>     - Types of Factory Methods.
+>         - Static Factory Method
+>         - Instance Factory Method
+>     - Spring IOC Container can create spring class objects using
+>         - O-param constructor
+>         - parametrized constructor
+>         - using static factory method
+>         - using instance factory method
+>     - Code on how to achieve above variations in coding perspective.
+> - <em>**`Project :`**</em> *`IOCProj13-FactoryMethodBeanInstantiation*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-25th -2022-  Factory MEthods.png*
