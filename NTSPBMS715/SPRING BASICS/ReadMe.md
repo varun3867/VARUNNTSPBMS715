@@ -403,3 +403,50 @@
 >         - In spring bean cfg file we have 10  spring beans.. but we want to see only 5 spring beans participating in pre-instantiation can you tell me what we should do for that ?
 >         - What is advantage of having pre-instantiation for singleton scope spring bean?
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-30th -2022- ApplicationContextContainer features.png`*
+
+>  #### May 01 2022 -- No Class
+
+> #### May 02 2022 -- Annotation+xml cfgs
+> - <em>**`Topics:`**</em>
+>     - Different approaches performing the configurations in spring apps
+>         - Spring app using xml + Annotation driven cfgs
+>             - List of annotation w.r.t core module
+>             - @Autowired
+>             - Autowiring has following limitations
+>             - How autowire works and how @Autowire triggers explaination with code and step by step alphabet representation.
+>             - If we have multiple dependents to inject to a property target class, we get ambigious problem.
+>                 - To solve this ambiguity Problem.
+>                     - make one dependent spring bean as the primary dependent using primary='true' or using @Primary
+>                     - using @Qualifier annotation along with @Autowired
+>                     - By taking target class bean property name(on which @Autowired is placed) as the dependent spring bean class id.  
+> - <em>**`File Name :`**</em> *`NTSPBMS715-May2nd -2022- Annotation+xml cfgs.png`*
+
+>  #### May 03 2022 -- No Class
+
+>  #### May 04 2022 -- No Class
+
+> #### May 05 2022 -- Annotation+xml cfgs
+> - <em>**`Topics:`**</em>
+>     - If 3 dependent spring beans for @Autowired Property of target class are cfg using the three approached at the same time, then which dependent spring bean will be picked ?
+>     - Autowiring using setter method
+>     - Autowiring by using arbitary method
+>     - Autowiring by using constructor.
+>     - Can we use @Qualifier without @Autowired ?
+>     - If we try to inject different dependent beans to a target spring bean property using @Autowired at a field level, constructor level, setter method level and arbitary method level then what is order of injection and which dependent bean will be injected automatically ?
+>     - Dependency Injection using xml driven configuations
+>     - Dependency Injection using xml+ annotation driven configurations , 100% code driven cfgs, spring boot
+>     - Stereo type annotations
+> - <em>**`File Name :`**</em> *`NTSPBMS715-May5th -2022- Annotation+xml cfgs.png`*
+
+> #### May 06 2022 -- Annotation+xml cfgs
+> - <em>**`Topics:`**</em>
+>     - If 3 dependent spring beans for @Autowired Property of target class are cfg using the three approached at the same time, then which dependent spring bean will be picked ?
+>     - Autowiring using setter method
+>     - Autowiring by using arbitary method
+>     - Autowiring by using constructor.
+>     - Can we use @Qualifier without @Autowired ?
+>     - If we try to inject different dependent beans to a target spring bean property using @Autowired at a field level, constructor level, setter method level and arbitary method level then what is order of injection and which dependent bean will be injected automatically ?
+>     - Dependency Injection using xml driven configuations
+>     - Dependency Injection using xml+ annotation driven configurations , 100% code driven cfgs, spring boot
+>     - Stereo type annotations
+> - <em>**`File Name :`**</em> *`NTSPBMS715-May5th -2022- Annotation+xml cfgs.png`*
