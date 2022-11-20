@@ -372,15 +372,37 @@
 
 > #### April 28 2022 -- Spring Bean Scopes
 > - <em>**`Topics:`**</em>
->     - Singleton Class
->     - To develop singleton class having minimum standards
->     - A perfect singleton class should be
->     - sping bean scopes
->     - Spring 1.x
->     - Spring 2.x
->     - Spring 3.x
->     - Spring 4.x
->     - Spring 5.x
+>     - Spring Bean Scopes in spring 5.x
 >     - scope='singleton'
-> - <em>**`File Name :`**</em> *`NTSPBMS715-April-26th -2022- Singleton Class - Spring Bean scopes.png*
+>     - Where did you use singleton scope in your project ?
+>     - What happens if we make real singleton java class as multipe spring beans with different bean ids ?
+>     - In spring programming how can we protect real singleton class singleton behaviour ?
+>     - scope='prototype'
+>     - What happens if we configure real singleton java class as spring bean with prototype scope ?
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-28th -2022-  Spring Bean scopes.png*
 
+> #### April 29 2022 -- Spring Bean Scopes
+> - <em>**`Topics:`**</em>
+>     - scope='prototype'
+>     - What happens if we configure real singleton java class as spring bean with prototype scope ?
+>     - scope = "request"
+>     - scope = "session"
+>     - scope = "application"
+>     - scope = "websocket"
+>     - ApplicationContext Container
+>     - To create ApplicationContext container create objects for a class that implements
+>     - Important Implementation classes of ApplicationContext
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-29th -2022-  Spring Bean scopes.png`*
+
+> #### April 29 2022 -- ApplicationContext Container features
+> - <em>**`Topics:`**</em>
+>     - scope='prototype'
+>     - What happens if we configure real singleton java class as spring bean with prototype scope ?
+>     - scope = "request"
+>     - scope = "session"
+>     - scope = "application"
+>     - scope = "websocket"
+>     - ApplicationContext Container
+>     - To create ApplicationContext container create objects for a class that implements
+>     - Important Implementation classes of ApplicationContext
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-30th -2022- ApplicationContextContainer features.png`*
