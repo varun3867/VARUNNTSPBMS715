@@ -194,3 +194,15 @@
 >     - Circular Injection using constructor injection
 >     - What is the difference between IOC and dependency injection ?
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-7th -2022-  setter vs Constructor Injection.png*
+
+> #### April 08 2022 -- Java.lang.Class and Need of Generics
+> - <em>**`Topics:`**</em>
+>     - java.lang.Clas
+>     - Need Of Generics
+>     - Problem
+>     - Testing code
+>     - Improvised Code using Generics (Solution 1)
+>     - More Improvised Code using Generics (Solution 2)
+>     - Signature of factory.getBean(-) given in spring 1.0 onwards
+>     - another factory.getBean(-,-) using generics from spring 2.5 -- Industry Standard
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-8th -2022-  java.lang.Class and Need of Generics.png*
