@@ -282,11 +282,28 @@
 
 > #### April 17 2022 -- No Class
 
-> #### April 18 2022 -- Design Pattern - Strategy Pattern
+> #### April 18 2022 -- Realtime DI - Strategy Pattern
 > - <em>**`Topics:`**</em>
->     - Limitations of implementing strategy pattern using core java.
->     - Strategy DP application using Spring Framework.
->     - Advantages of developing strategy pattern using Spring Framework.
->     - Procedure to add STS Plugin to Eclipse IDE.
-> - <em>**`Project :`**</em> *`IOCProj09-StrategyPattern-CoreJAva-PropertiesFile*
-> - <em>**`File Name :`**</em> *`NTSPBMS715-April-16th -2022-  FactoryPattern-Strategy Pattern.png*
+>     - What is JDBC connection pool and what is DataSource Obj ?
+>     - Advantages of connection pool
+>     - How to create DataSource from applicationContext.xml and which dependency to be added in pom.xml file?
+>     - Different types of jdbc conn obj ?
+>     - Limitations of developing application by keeping logics in single class.
+>     - Typical Standalone Layered App Architecture.
+>     - DAO Class
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-18th -2022-  RealtimeDI-StrategyPattern.png*
+
+> #### April 19 2022 -- Realtime DI - Strategy Pattern
+> - <em>**`Topics:`**</em>
+>     -  Service class
+>     - Controller class
+>     - Client App
+>     - How IOC container Injects objs in spring application ?
+>     - Types of Java Beans
+>         - VO Class (Value Object Class)
+>         - DTO Class (Data Transfer Object)
+>         - BO Class/ Entity Class/ Modal Class
+>     - Legacy Style Layered App
+>     - Modern Style Layered App.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-19th -2022-  RealtimeDI-StrategyPattern.png*
+
