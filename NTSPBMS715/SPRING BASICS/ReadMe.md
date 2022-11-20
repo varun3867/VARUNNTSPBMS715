@@ -353,3 +353,34 @@
 >     - Code on how to achieve above variations in coding perspective.
 > - <em>**`Project :`**</em> *`IOCProj13-FactoryMethodBeanInstantiation*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-25th -2022-  Factory MEthods.png*
+
+> #### April 26 2022 -- Singleton Class - Spring Bean Scopes
+> - <em>**`Topics:`**</em>
+>     - Singleton Class
+>     - To develop singleton class having minimum standards
+>     - A perfect singleton class should be
+>     - sping bean scopes
+>     - Spring 1.x
+>     - Spring 2.x
+>     - Spring 3.x
+>     - Spring 4.x
+>     - Spring 5.x
+>     - scope='singleton'
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-26th -2022- Singleton Class - Spring Bean scopes.png*
+
+>  #### April 27 2022 -- No Class
+
+> #### April 28 2022 -- Spring Bean Scopes
+> - <em>**`Topics:`**</em>
+>     - Singleton Class
+>     - To develop singleton class having minimum standards
+>     - A perfect singleton class should be
+>     - sping bean scopes
+>     - Spring 1.x
+>     - Spring 2.x
+>     - Spring 3.x
+>     - Spring 4.x
+>     - Spring 5.x
+>     - scope='singleton'
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-26th -2022- Singleton Class - Spring Bean scopes.png*
+
