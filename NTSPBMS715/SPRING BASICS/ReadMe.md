@@ -231,17 +231,20 @@
 >     - Factory Pattern Solution
 >     - 3 Important statements of method return type
 >     - Factory Pattern improvision using Generics (To make the Client App using pattern as type safe code).
->     - Strategy Code. 
+>     - Strategy Design Pattern.
+>     - Principle Rules
+>         - Favour/Prefer Composition(HAS-A Relation) over inheritance(IS-A Relation) while taking target and dependent classes.
+>             - Limitation of Inheritance
 > - <em>**`Project :`**</em> *`IOCProj06-FactoryPattern-solution*
 > - <em>**`Project :`**</em> *`IOCProj07-FactoryPattern-solution-UsingGenerics*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-12th -2022-  FactoryPattern-Strategy Pattern.png*
 
-> #### April 13 2022 -- Design Pattern - Factory Pattern - Strategy Pattern
+> #### April 13 2022 -- Design Pattern - Strategy Pattern
 > - <em>**`Topics:`**</em>
->     - Factory Pattern Solution
->     - 3 Important statements of method return type
->     - Factory Pattern improvision using Generics (To make the Client App using pattern as type safe code).
->     - Strategy Code. 
+>     - Principle Rules
+>         - Favour/Prefer Composition(HAS-A Relation) over inheritance(IS-A Relation) while taking target and dependent classes.
+>             - Limitation of Inheritance
+>                 - 
 > - <em>**`Project :`**</em> *`IOCProj06-FactoryPattern-solution*
 > - <em>**`Project :`**</em> *`IOCProj07-FactoryPattern-solution-UsingGenerics*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-12th -2022-  FactoryPattern-Strategy Pattern.png*
