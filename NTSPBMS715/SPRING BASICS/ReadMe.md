@@ -396,13 +396,10 @@
 
 > #### April 29 2022 -- ApplicationContext Container features
 > - <em>**`Topics:`**</em>
->     - scope='prototype'
->     - What happens if we configure real singleton java class as spring bean with prototype scope ?
->     - scope = "request"
->     - scope = "session"
->     - scope = "application"
->     - scope = "websocket"
->     - ApplicationContext Container
->     - To create ApplicationContext container create objects for a class that implements
->     - Important Implementation classes of ApplicationContext
+>     - Pre-instantiation of singleton scope spring beans.
+>         - How to disable pre-instantiation of singleton scope spring beans ?
+>         - If target spring bean scope is singleton and the dependent spring bean scope is prototype then tell me wheather dependent spring bean participates in pre-instantiation or not?
+>         - Why other than singleton scope spring beans are not participating in pre-instantiation ?
+>         - In spring bean cfg file we have 10  spring beans.. but we want to see only 5 spring beans participating in pre-instantiation can you tell me what we should do for that ?
+>         - What is advantage of having pre-instantiation for singleton scope spring bean?
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-30th -2022- ApplicationContextContainer features.png`*
