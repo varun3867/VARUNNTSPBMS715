@@ -270,3 +270,14 @@
 >             - java.util.Properties
 > - <em>**`Project :`**</em> *`IOCProj05-StrategyPattern-CoreJAva*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-15th -2022-  FactoryPattern-Strategy Pattern.png*
+
+> #### April 16 2022 -- Design Pattern - Strategy Pattern
+> - <em>**`Topics:`**</em>
+>     - Principle Rules
+>         - P3:Our code must be open for extension and must be closed for modification.
+>         - Strategy Pattern implementation using core java
+>         - Is the above code is 100% loosely coupled code ?
+>             - Properties file
+>             - java.util.Properties
+> - <em>**`Project :`**</em> *`IOCProj05-StrategyPattern-CoreJAva*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-15th -2022-  FactoryPattern-Strategy Pattern.png*
