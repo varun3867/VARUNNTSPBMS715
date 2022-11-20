@@ -244,7 +244,7 @@
 >     - Principle Rules
 >         - Favour/Prefer Composition(HAS-A Relation) over inheritance(IS-A Relation) while taking target and dependent classes.
 >             - Limitation of Inheritance
->                 - 
+>                 - yes
 > - <em>**`Project :`**</em> *`IOCProj06-FactoryPattern-solution*
 > - <em>**`Project :`**</em> *`IOCProj07-FactoryPattern-solution-UsingGenerics*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-12th -2022-  FactoryPattern-Strategy Pattern.png*
