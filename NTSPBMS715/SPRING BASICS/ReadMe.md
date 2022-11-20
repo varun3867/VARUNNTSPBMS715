@@ -242,9 +242,18 @@
 > #### April 13 2022 -- Design Pattern - Strategy Pattern
 > - <em>**`Topics:`**</em>
 >     - Principle Rules
->         - Favour/Prefer Composition(HAS-A Relation) over inheritance(IS-A Relation) while taking target and dependent classes.
+>         - P1:Favour/Prefer Composition(HAS-A Relation) over inheritance(IS-A Relation) while taking target and dependent classes.
 >             - Limitation of Inheritance
->                 - yes
-> - <em>**`Project :`**</em> *`IOCProj06-FactoryPattern-solution*
-> - <em>**`Project :`**</em> *`IOCProj07-FactoryPattern-solution-UsingGenerics*
-> - <em>**`File Name :`**</em> *`NTSPBMS715-April-12th -2022-  FactoryPattern-Strategy Pattern.png*
+>                 - Certain OOP Languages does not allow to inherit from multiple classes at a time(No Support for Multiple Inheritance).
+>                     - Problem
+>                     - Solution using composition
+>                 - With Inheritance, the code become fragile(easily breakable).
+>                     - Problem
+>                     - Solution using composition
+>                 - With Inheritance, the unit testing of code becomes bit complex
+>                     - Problem
+>                     - Solution using composition
+>         - P2:Code to Interface/Abstract classes and do not code concrete classes to achieve loose coupling.
+>             - Problem
+>             - Solution using interface
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-13th -2022-  FactoryPattern-Strategy Pattern.png*
