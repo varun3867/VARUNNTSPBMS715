@@ -197,7 +197,7 @@
 
 > #### April 08 2022 -- Java.lang.Class and Need of Generics
 > - <em>**`Topics:`**</em>
->     - java.lang.Clas
+>     - java.lang.Class
 >     - Need Of Generics
 >     - Problem
 >     - Testing code
@@ -206,3 +206,42 @@
 >     - Signature of factory.getBean(-) given in spring 1.0 onwards
 >     - another factory.getBean(-,-) using generics from spring 2.5 -- Industry Standard
 > - <em>**`File Name :`**</em> *`NTSPBMS715-April-8th -2022-  java.lang.Class and Need of Generics.png*
+
+> #### April 09 2022 -- Design Patterns
+> - <em>**`Topics:`**</em>
+>     - Limitations of using XmlBeanFactory Class for BeanFacotry(IOC Container) creation.
+>     - Creating BeanFactory container using DefaultListableBeanFactory class.
+>     - Advantages of creating BeanFactory Container using DefaultListableBeanFactory.
+>     - ***** Can I place only private contructor in spring bean class ?
+>     - ***** Can we take the setter method and of setter injection as private methods ?
+>     - Design Patters
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-9th -2022-  Design Patterns.png*
+
+> #### April 10 2022 -- No Class
+
+> #### April 11 2022 -- Design Pattern - Factory Pattern
+> - <em>**`Topics:`**</em>
+>     - Factory Pattern
+>     - Code stating Probelm with Factory Pattern
+> - <em>**`Project :`**</em> *`IOCProj05-FactoryPattern-Problem*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-11th -2022-  Design Pattern-FactoryPattern.png*
+
+> #### April 12 2022 -- Design Pattern - Factory Pattern - Strategy Pattern
+> - <em>**`Topics:`**</em>
+>     - Factory Pattern Solution
+>     - 3 Important statements of method return type
+>     - Factory Pattern improvision using Generics (To make the Client App using pattern as type safe code).
+>     - Strategy Code. 
+> - <em>**`Project :`**</em> *`IOCProj06-FactoryPattern-solution*
+> - <em>**`Project :`**</em> *`IOCProj07-FactoryPattern-solution-UsingGenerics*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-12th -2022-  FactoryPattern-Strategy Pattern.png*
+
+> #### April 13 2022 -- Design Pattern - Factory Pattern - Strategy Pattern
+> - <em>**`Topics:`**</em>
+>     - Factory Pattern Solution
+>     - 3 Important statements of method return type
+>     - Factory Pattern improvision using Generics (To make the Client App using pattern as type safe code).
+>     - Strategy Code. 
+> - <em>**`Project :`**</em> *`IOCProj06-FactoryPattern-solution*
+> - <em>**`Project :`**</em> *`IOCProj07-FactoryPattern-solution-UsingGenerics*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-April-12th -2022-  FactoryPattern-Strategy Pattern.png*
