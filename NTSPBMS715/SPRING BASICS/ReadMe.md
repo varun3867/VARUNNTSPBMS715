@@ -460,4 +460,25 @@
 >     - Can we inject values given by enduser using Scanner and some other approaches to spring bean properties ?
 >     - Sample app with alphabetical representation with flow
 >     - Diffference in using properties file using @PropertyScan and properties file using <context:property-placeholder>
+> - <em>**`Project :`**</em> *`IOCProj20-WorkingWthPropertiesFile`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-May7th -2022- Annotations+xml cfgs.png`*
+
+> #### May 08 2022 -- Annotation+xml cfgs
+
+> #### May 09 2022 -- bean alias
+> - <em>**`Topics:`**</em>
+>     - While working with xml + annotation driven cfgs  how can we change from one dependent to another dependent without touching the source code of target class?
+> - <em>**`Project :`**</em> *`IOCProj21-strategyPattern-DynamicDependentChange`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- bean alias - May 9th.png`*
+
+> #### May 10 2022 -- No Class
+
+> #### May 09 2022 -- Converting Layered Application Into xml + annotation driven cfgs  App
+> - <em>**`Topics:`**</em>
+>     - Procedure to convert xml cfg driven spring app into xml+annotation driven layered application.
+>     - What happens if we use the stereotype annotations differently?
+>     - What happens if we use only @Component annotation to cfg all the DAO, Service, Controller classes of Layered Application  ?
+>     - Videos : Java Annotation Fundamentals 
+> - <em>**`Project :`**</em> *`IOCProj22-strategyPattern-realtimeDI-MiniProject-xml-annotation`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Converting Layered Application Into xml + annotation driven cfgs  App - May 11th.png`*
+
