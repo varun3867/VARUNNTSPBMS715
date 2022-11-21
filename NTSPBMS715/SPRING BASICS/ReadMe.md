@@ -440,13 +440,15 @@
 
 > #### May 06 2022 -- Annotation+xml cfgs
 > - <em>**`Topics:`**</em>
->     - If 3 dependent spring beans for @Autowired Property of target class are cfg using the three approached at the same time, then which dependent spring bean will be picked ?
->     - Autowiring using setter method
->     - Autowiring by using arbitary method
->     - Autowiring by using constructor.
->     - Can we use @Qualifier without @Autowired ?
->     - If we try to inject different dependent beans to a target spring bean property using @Autowired at a field level, constructor level, setter method level and arbitary method level then what is order of injection and which dependent bean will be injected automatically ?
->     - Dependency Injection using xml driven configuations
->     - Dependency Injection using xml+ annotation driven configurations , 100% code driven cfgs, spring boot
 >     - Stereo type annotations
-> - <em>**`File Name :`**</em> *`NTSPBMS715-May5th -2022- Annotation+xml cfgs.png`*
+>     - The following are stereo-type annotations
+>     - Thumbrule to cfg java classes as spring beans in xml + annotation driven cfgs
+>     - Thumbrule to cfg java classes as spring beans in xml driven cfgs is
+>     - Example app on stereo type annotations.
+>     - step by step execution and alphabet representation on flow.
+>     - What is the difference between @Component and @Primary
+>     - How to resolve ambiguity problem if the spring beans are cfg using annotations ?
+>     - How to disable pre-instantiation of singleton scope spring beans using annotation driven cfgs ?
+>     - What is the difference between @Primary and @Qualifier ?
+>     - How to specify spring bean scope in annotation driven cfgs ?
+> - <em>**`File Name :`**</em> *`NTSPBMS715-May6th -2022- Annotations+xml cfgs.png`*
