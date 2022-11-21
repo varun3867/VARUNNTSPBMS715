@@ -527,8 +527,20 @@
 
 > #### May 15 2022 -- No Class
 
-> #### May 16 2022 -- dependency Lookup
+> #### May 16 2022 -- Dependency Lookup
 > - <em>**`Topics:`**</em>
->     - Pending...
-> - <em>**`Project :`**</em> *`IOCProj26-SpringBeanLifeCycle-AnnotationDriven`*
-> - <em>**`File Name :`**</em> *`NTSPBMS715-  Spring Bean Life cycle - May 14th.png`*
+>     - When should I go for Dependency Lookup and when should I go for Dependency injection ?
+>     - Dependency Lookup with Sample Code with step by step execution by alphabet representation flow.
+>     - Limitation of Traditional Dependency Lookup.
+> - <em>**`Project :`**</em> *`IOCProj27-DependencyLookup`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Dependency Lookup - May 16th.png`*
+
+> #### May 16 2022 -- Dependency Lookup
+> - <em>**`Topics:`**</em>
+>     - When should I go for Dependency Lookup and when should I go for Dependency injection ?
+>     - Dependency Lookup with Sample Code with step by step execution by alphabet representation flow.
+>     - Limitation of Traditional Dependency Lookup.
+> - <em>**`Project :`**</em> *`IOCProj27-DependencyLookup`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Dependency Lookup - May 16th.png`*
+
+
