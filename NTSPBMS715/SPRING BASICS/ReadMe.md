@@ -607,4 +607,14 @@
 >     - Code Flow with alphabetical pointings.
 >     - Method Injection example app using 100% code driven cfgs.
 > - <em>**`Project :`**</em> *`IOCProj32-StrategyPattern-DyanmicDependencyChange-100pCfg`*
-> - <em>**`File Name :`**</em> *`NTSPBMS715- 100% Code driven cfgs - May-24th-2022.png`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- 100% Code driven cfgs - May-25th-2022.png`*
+
+> #### May 26 2022 -- No Class
+
+> #### May 27 2022 -- i18n App Layered App 100P Code
+> - <em>**`Topics:`**</em>
+>     - Spring's I18n App using 100% Code driven cfgs.
+>     - Converting Layered app into 100% Code driven cfg application having ability to change to oracle or mysql DAO dynamically(Step by Step execution).
+> - <em>**`Project :`**</em> *`IOCProj34-SpringI18n-100pCodeCfgs`*
+> - <em>**`Project :`**</em> *`IOCProj35-StrategyPattern-RealtimeDI-Miniproject-100pCodeCfgs`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- I18n App - Layered App- 100P Code - May-27-2022.png`*
