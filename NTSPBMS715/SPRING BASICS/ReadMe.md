@@ -473,7 +473,7 @@
 
 > #### May 10 2022 -- No Class
 
-> #### May 09 2022 -- Converting Layered Application Into xml + annotation driven cfgs  App
+> #### May 11 2022 -- Converting Layered Application Into xml + annotation driven cfgs  App
 > - <em>**`Topics:`**</em>
 >     - Procedure to convert xml cfg driven spring app into xml+annotation driven layered application.
 >     - What happens if we use the stereotype annotations differently?
@@ -482,3 +482,53 @@
 > - <em>**`Project :`**</em> *`IOCProj22-strategyPattern-realtimeDI-MiniProject-xml-annotation`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Converting Layered Application Into xml + annotation driven cfgs  App - May 11th.png`*
 
+> #### May 12 2022 -- I18n using Spring 
+> - <em>**`Topics:`**</em>
+>     - I18n using Spring 
+>     - Procedure to develop spring app by enabling i18n.
+>     - sample app with alphabetic representation of flow.
+>     - What is the difference between ctx.getMessage(-) and ctx.getBean(-) methods ?
+> - <em>**`Project :`**</em> *`IOCProj23-Spring18n`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  I18n using Spring - May 12th.png`*
+
+> #### May 13 2022 -- BeanFactory Container Vs ApplicationContext Container
+> - <em>**`Topics:`**</em>
+>     - What is the difference between BeanFactory and ApplicationContext Container ?
+>     - Where should I use BeanFactory Container and Application Context Container ?
+>     - Spring Bean Life Cycle
+>     - Spring Bean IOC Container manages the lifecycle of spring bean by raising the following life cycle events.
+>         - Initiation Event
+>         - Destruction Event
+>     - We can configure spring bean life cycle operations in 3 approaches.
+>         - Life cycle configuration using Declarative approach(xml cfgs).
+>         - Life cycle configuration using Programatic approach(java code).
+>         - Life cycle configuration using annotation approach
+>     - Approach1 Declarative Approach
+>     - Sample code to understand
+> - <em>**`Project :`**</em> *`IOCProj24-SpringBeanLifeCycle-Declarative`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  BeanFactory Container Vs ApplicationContext Container - May 13th.png`*
+
+> #### May 14 2022 -- Spring Bean Life Cycle
+> - <em>**`Topics:`**</em>
+>     - Approach1 Declarative Approach
+>     - Sample code to understand
+>     - pros and cons of declarative spring bean life cycle.
+>     - Approach2 Programatic approach of spring bean life cycle
+>     - Sample code to understand
+>     - pros and cons of programatic spring bean life cycle.
+>     - Approach3 Annotation approach of spring bean life cycle
+>     - Sample code to understand
+>     - pros and cons of annotation driven spring bean life cycle cfgs.
+>     - Conclusion on Spring Bean life cycle configurations. (When should we use which approach).
+>     - If all the 3 approaches of spring bean cycle cfgs are applied in one spring bean class then can you tell me in which order the lifecycle methods will execute ? (Answer not given by sir)
+> - <em>**`Project :`**</em> *`IOCProj25-SpringBeanLifeCycle-Programatic`*
+> - <em>**`Project :`**</em> *`IOCProj26-SpringBeanLifeCycle-AnnotationDriven`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Spring Bean Life cycle - May 14th.png`*
+
+> #### May 15 2022 -- No Class
+
+> #### May 16 2022 -- dependency Lookup
+> - <em>**`Topics:`**</em>
+>     - Pending...
+> - <em>**`Project :`**</em> *`IOCProj26-SpringBeanLifeCycle-AnnotationDriven`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Spring Bean Life cycle - May 14th.png`*
