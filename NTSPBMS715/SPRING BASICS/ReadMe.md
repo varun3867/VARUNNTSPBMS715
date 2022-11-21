@@ -627,3 +627,17 @@
 > - <em>**`Project :`**</em> *`IOCProj36-RealtimeDI-Miniproject-Multiple Cfg files`*
 > - <em>**`Project :`**</em> *`IOCProj37-RealtimeDI-Miniproject-100pCodeCfgs-MultipleConfigC`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- 100% Code driven cfgs - May-25th-2022.png`*
+
+> #### May 29 2022 -- No Class
+
+> #### May 30 2022 -- No Class
+ 
+> #### May 31 2022 -- Working with Different DataSources
+> - <em>**`Topics:`**</em>
+>     - Working with different DataSources
+>     - What is the jdbc connection pool you have used in your project ?
+>     - Working with apache DBCP2 DataSource.
+>     - steps to use apache DBCP2 in layered app(100% code driven cfgs)
+>     - Hikari CP
+>     - Step sto work with Hikari cP jdbc con pool in layered App(100% code driven cfgs app)
+> - <em>**`File Name :`**</em> *`NTSPBMS715- May31- Working with Different DataSources.png`*
