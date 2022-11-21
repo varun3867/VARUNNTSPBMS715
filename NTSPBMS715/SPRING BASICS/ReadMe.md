@@ -573,9 +573,21 @@
 >     - Videos : Lombok api
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Lookup Method Injection Flow of execution - May 20th.png`*
 > #### May 20 2022 -- Method Replacer or method Injection
+> - <em>**`Topics:`**</em>
 >     - Method Injection/Method Replacer.
 >     - Requirements
 >     - Solution
+>     - Steps for developing the application having Method Replacer/Method Injection support.
+>     - Step by Step code exection
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Method Replacer or MethodInjection - May-20th-2022.png`*
+
+> #### May 21 2022 -- No Class
+> 
+> #### May 22 2022 -- No Class
+> 
+> #### May 23 2022 -- Method Replacer or method Injection Application Flow
+> - <em>**`Topics:`**</em>
+>     - Key points on Method Replacer or Method Injection.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Method Replacer or MethodInjection's ApplicationFlow - May-23rd-2022.png`*
 
 
