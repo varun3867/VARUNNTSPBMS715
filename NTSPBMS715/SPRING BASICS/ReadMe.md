@@ -452,3 +452,12 @@
 >     - What is the difference between @Primary and @Qualifier ?
 >     - How to specify spring bean scope in annotation driven cfgs ?
 > - <em>**`File Name :`**</em> *`NTSPBMS715-May6th -2022- Annotations+xml cfgs.png`*
+
+> #### May 07 2022 -- Annotation+xml cfgs
+> - <em>**`Topics:`**</em>
+>     - @PropertySource
+>     - @Value
+>     - Can we inject values given by enduser using Scanner and some other approaches to spring bean properties ?
+>     - Sample app with alphabetical representation with flow
+>     - Diffference in using properties file using @PropertyScan and properties file using <context:property-placeholder>
+> - <em>**`File Name :`**</em> *`NTSPBMS715-May7th -2022- Annotations+xml cfgs.png`*
