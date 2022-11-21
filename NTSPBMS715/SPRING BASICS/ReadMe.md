@@ -568,6 +568,14 @@
 
 > #### May 20 2022 -- Lookup Method Injection
 > - <em>**`Topics:`**</em>
->     - Lookup Method Injection Flow of Execution by involving its InMemory Dynamic Proxy Class.
+>     - Lookup Method Injection Flow of Execution by involving its InMemory Dynamic Proxy Class(with alphabetical representation).
 >     - Conclusion on Dependency Injection and Dependency Lookup.
+>     - Videos : Lombok api
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Lookup Method Injection Flow of execution - May 20th.png`*
+> #### May 20 2022 -- Method Replacer or method Injection
+>     - Method Injection/Method Replacer.
+>     - Requirements
+>     - Solution
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Method Replacer or MethodInjection - May-20th-2022.png`*
+
+
