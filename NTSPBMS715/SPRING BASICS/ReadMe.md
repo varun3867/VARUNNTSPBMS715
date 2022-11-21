@@ -551,4 +551,23 @@
 > - <em>**`Project :`**</em> *`IOCProj28-DependencyLookup-AwareInjection`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Aware Injection + Dependency Lookup - May 18th.png`*
 
+> #### May 19 2022 -- Lookup Method Injection
+> - <em>**`Topics:`**</em>
+>     - Lookup Method Injection
+>     - Normal Java Class
+>     - In-Memory Proxy Class
+>     - Steps of developing application by enabling Lookup method injection.
+>     - Sample Code
+>     - Advantages of Lookup Method Injection.
+>     - Disadvantages
+>     - What is the difference between @Autowired and @Lookup ?
+>     - Can we make abstract class as spring bean ?
+>     - In which situation we configure abstract class as spring bean ?
+> - <em>**`Project :`**</em> *`IOCProj29-LookupMethodInjection`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Lookup Method Injection (LMI) - May 19th.png`*
 
+> #### May 20 2022 -- Lookup Method Injection
+> - <em>**`Topics:`**</em>
+>     - Lookup Method Injection Flow of Execution by involving its InMemory Dynamic Proxy Class.
+>     - Conclusion on Dependency Injection and Dependency Lookup.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Lookup Method Injection Flow of execution - May 20th.png`*
