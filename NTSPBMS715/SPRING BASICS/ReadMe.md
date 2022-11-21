@@ -535,12 +535,20 @@
 > - <em>**`Project :`**</em> *`IOCProj27-DependencyLookup`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Dependency Lookup - May 16th.png`*
 
-> #### May 16 2022 -- Dependency Lookup
+> #### May 17 2022 -- NO Class
+
+> #### May 18 2022 -- Aware Injection + Dependency Lookup
 > - <em>**`Topics:`**</em>
->     - When should I go for Dependency Lookup and when should I go for Dependency injection ?
->     - Dependency Lookup with Sample Code with step by step execution by alphabet representation flow.
->     - Limitation of Traditional Dependency Lookup.
-> - <em>**`Project :`**</em> *`IOCProj27-DependencyLookup`*
-> - <em>**`File Name :`**</em> *`NTSPBMS715-  Dependency Lookup - May 16th.png`*
+>     - Aware Injection / Interface Injection
+>     - Types of Interfaces that involves in Aware/Interface injection
+>     - What are Xxx Aware Interfaces.
+>     - Sample code and flow with alphabetical representaiton
+>     - Advantages of Aware Injection + Dependency Lookup
+>     - Disadvantages
+>     - Can we inject the IOC Container managed special objects to spring beans using @Autowired ?
+>     - What is difference between programatic Spring Bean Life Cycle and Aware Injection ?
+>     - Why do not we design b.method having client app created ApplicationContext container obj(ctx) as the param value ?
+> - <em>**`Project :`**</em> *`IOCProj28-DependencyLookup-AwareInjection`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-  Aware Injection + Dependency Lookup - May 18th.png`*
 
 
