@@ -582,12 +582,29 @@
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Method Replacer or MethodInjection - May-20th-2022.png`*
 
 > #### May 21 2022 -- No Class
-> 
+
 > #### May 22 2022 -- No Class
-> 
+
 > #### May 23 2022 -- Method Replacer or method Injection Application Flow
 > - <em>**`Topics:`**</em>
 >     - Key points on Method Replacer or Method Injection.
+>     - Flow with alphabetical order.
 > - <em>**`File Name :`**</em> *`NTSPBMS715-  Method Replacer or MethodInjection's ApplicationFlow - May-23rd-2022.png`*
 
+> #### May 24 2022 -- 100% code driven cfgs
+> - <em>**`Topics:`**</em>
+>     - 100% code driven cfgs based spring app development or java config approach to develp the spring app.
+>     - Sample code and flow of execution with abphabetical pointings
+>     - Thumb rules.
+>     - What is the difference between @Component and @Bean ?
+>     - How default bean id is taken
+> - <em>**`File Name :`**</em> *`NTSPBMS715- 100% Code driven cfgs - May-24th-2022.png`*
 
+> #### May 25 2022 -- 100% code driven cfgs
+> - <em>**`Topics:`**</em>
+>     - We can apply @Lazy, @Scope, @Primary annotations of the top of @Bean methods.
+>     - ImportResource
+>     - Code Flow with alphabetical pointings.
+>     - Method Injection example app using 100% code driven cfgs.
+> - <em>**`Project :`**</em> *`IOCProj32-StrategyPattern-DyanmicDependencyChange-100pCfg`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- 100% Code driven cfgs - May-24th-2022.png`*
