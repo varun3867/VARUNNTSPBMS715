@@ -111,12 +111,23 @@
 >     - What is the jdbc conn pool that you have used in your project ?
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 14th -  Spring Boot Layered App.png`*
 
-> #### June 15 2022 -- Spring Boot Layered Application Development
+> #### June 15 2022 -- Spring Boot Layered App - StoryBoard
 > - <em>**`Topics:`**</em>
->     - Limitations of Keeping multiple logics in single java class.
->     - Solution
->     - Typical Standalone Layered App
->     - Standard Layered Application
->     - How many types of jdbc connection objects are there ?
->     - What is the jdbc conn pool that you have used in your project ?
-> - <em>**`File Name :`**</em> *`NTSPBMS715-June 14th -  Spring Boot Layered App.png`*
+>     - Story Board of Mini Project (Layered Application)
+>     - Example code for Story board
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 15th -  Spring Boot Layered App-StoryBoard.png`*
+
+> #### June 16 2022 -- Spring Boot Layered App - StoryBoard
+> - <em>**`Topics:`**</em>
+>     - Procedure to Develop Sproing Boot Layered Application.
+>     - ***** Step by Step execution with alphabetical pointings along with how it works with DataSource.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 15th-16th -  Spring Boot Layered App-StoryBoard.png`*
+
+> #### June 17 2022 -- Spring Boot Layered App Development
+> - <em>**`Topics:`**</em>
+>     - Procedure to Develop Sproing Boot Layered Application(In Eclipse IDE).
+>     - Step by Step execution.
+> - <em>**`Project :`**</em> *`BootProj03-LayeredApp`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 17th -  Spring Boot Layered App Development.png`*
+
+
