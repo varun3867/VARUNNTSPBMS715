@@ -235,8 +235,24 @@
 
 > #### July 02 2022 -- Profiles in Spring boot
 
-> #### July 04 2022 -- Profiles - Runners in Spring Boot
+> #### July 04 and July 05 2022 -- Profiles - Runners in Spring Boot
 > - <em>**`Topics:`**</em>
->     - Pending....
-> - <em>**`Project :`**</em> *`Pending...`*
+>     - Runners in Spring Boot
+>     - Static Block of Spring Boot vs Spring Bean acting as Runner class
+>     - Two types of runners in spring boot.
+>     - What is the difference between CommandLineRunner and ApplicationRunner ?
+>     - Methods of AplicationArguments
+>     - What is the use of Runners in Spring Boot ?
+>     - What is the difference between starter and runner ?
+>     - Adding Runners support in Layered Application.
+>     - Step by Step execution
+>     - What is the difference between @PostConstruct method in spring bean and Runner class in Spring Boot App ?
+>     - Which method executes first ? @PostConstruct method and run(-) method of Runner class ?
+>     - How to disable certain Runner class temporarily if multiple runner classes are placed in Spring Boot Project ?
+>     - Can I use Runners in Spring Apps ?
+>     - Videos : Spring JDBC Videos
+>     - Step by Step execution
+> - <em>**`Project :`**</em> *`BootProj12-RealtimeDI-AutoConfiguration-ProfilesInclude`*
+> - <em>**`Project :`**</em> *`BootProj12-LayeredApp-Runners`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-4thjuly  profiles  - Runners in spring boot.png`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-4th-5th july  profiles  - Runners in spring boot.png`*
