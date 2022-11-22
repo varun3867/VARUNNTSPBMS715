@@ -205,8 +205,14 @@
 > - <em>**`Project :`**</em> *`BootProj08-Complex-Yml`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 28th - -  yml  file.png`*
 
-> #### June 28 2022 -- Profiles in Spring boot
+> #### June 29 - July 01 2022 -- Profiles in Spring boot
 > - <em>**`Topics:`**</em>
->     - Pending....
-> - <em>**`Project :`**</em> *`BootProj08-Complex-Yml`*
+>     - Profiles
+>     - Sample App step by step execution
+>     - Can we actiate multiple profiles at a time ?
+> - <em>**`Project :`**</em> *`BootProj09-LayeredApp-Profiles-Propertiesfiles`*
+>     - Spring boot profiles using yaml file 
+> - <em>**`Project :`**</em> *`BootProj10-LayeredApp-Profiles-Propertiesfiles-yml`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 29th - - profiles in spring boot.png`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 29th-july 1st - - profiles in spring boot.png`*
+
