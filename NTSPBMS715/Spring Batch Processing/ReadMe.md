@@ -13,12 +13,29 @@
 >     - Sequence Flow of Diagram of Step
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring boot Batch Intro  - NOV18th.png`*
 
+> #### Nov 19 2022 -- No Class
+
 > #### Nov 20 2022 -- No Class
 
-> #### Nov 21 2022 -- No Class
-
-> #### Nov 22 2022 -- Spring Boot MVC Intro
+> #### Nov 21 2022 -- Spring Batch Cfgs
 > - <em>**`Topics:`**</em>
->     - Sample Application on MVC+FrontController Architecture using JEE Technologies(servlet, jsp)
-> - <em>**`File Name :`**</em> *`NTSPBMS715- spring Boot MVC Intro -- sept 14th-16th-2022.png`*
+>     - Job
+>     - Example
+>     - Spring Batch Launch Environment
+>         - Run Tier
+>         - Job Tier
+>         - Application Tier
+>         - Data Tier
+>     - Once we add "spring-boot-starter-batch" to the spring boot projects we get multiple objects related spring batch processing through AutoConfiguration like
+>     - ItemReader
+>     - The Readymade ItemReaders are
+>     - ItemWriter
+>     - The Readymade ItemWriters are
+>     - ItemProcessor
+>     - Example of ItemProcessor creation
+>     - Step
+>     - Every Step Object must contain the following 5 details
+>     - method chaning
+>     - Step object Diagram
+> - <em>**`File Name :`**</em> *`NTSPBMS714- Spring Batch Cfgs  - NOV21st.png`*
 
