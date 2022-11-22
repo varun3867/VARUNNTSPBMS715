@@ -100,3 +100,23 @@
 >     - Sample application for selecting dependent class without changing the code in spring boot with xml file.(flow with alphabetical representation).
 > - <em>**`Project :`**</em> *`BootProj02-DI`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 10th-13th-2022-Different types of annotation spring boot Programming.png`*
+
+> #### June 14 2022 -- Spring Boot Layered Application Development
+> - <em>**`Topics:`**</em>
+>     - Limitations of Keeping multiple logics in single java class.
+>     - Solution
+>     - Typical Standalone Layered App
+>     - Standard Layered Application
+>     - How many types of jdbc connection objects are there ?
+>     - What is the jdbc conn pool that you have used in your project ?
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 14th -  Spring Boot Layered App.png`*
+
+> #### June 15 2022 -- Spring Boot Layered Application Development
+> - <em>**`Topics:`**</em>
+>     - Limitations of Keeping multiple logics in single java class.
+>     - Solution
+>     - Typical Standalone Layered App
+>     - Standard Layered Application
+>     - How many types of jdbc connection objects are there ?
+>     - What is the jdbc conn pool that you have used in your project ?
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 14th -  Spring Boot Layered App.png`*
