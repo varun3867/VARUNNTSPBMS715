@@ -56,34 +56,34 @@
 > #### June 10 2022 -- Different types of annotation spring boot Programming
 > - <em>**`Topics:`**</em>
 >     - In Core Programming of Spring Boot we use the following different categories of annotations.
-          - Annotations for Configuration
-             - @Component
-             - @Service
-             - @Repository
-             - @Controller
-             - @RestController
-             - @ControllerAdvice
-             - @Configuration
-             - @Bean
-             - Annotation for Data Supply
-               - @Autowired
-               - @Value
-               - @Qualifier
-               - @Primary
-          - java Config Annotations
-            - @Named
-            - @Inejct
-            - @Resource
-          - annotations for spring bean life cycle
-            - @PostConstruct
-            - @PreConstruct
-          - Misc Annotations
-            - @PropertySource/@PropertySources
-            - @ComponentScan
-            - @ImportResource
-            - @Import
-            - @Scope
-            - @Lazy
+>          - Annotations for Configuration
+>            - @Component
+>            - @Service
+>            - @Repository
+>            - @Controller
+>            - @RestController
+>            - @ControllerAdvice
+>            - @Configuration
+>            - @Bean
+>            - Annotation for Data Supply
+>              - @Autowired
+>              - @Value
+>              - @Qualifier
+>              - @Primary
+>          - java Config Annotations
+>            - @Named
+>            - @Inejct
+>            - @Resource
+>          - annotations for spring bean life cycle
+>            - @PostConstruct
+>            - @PreConstruct
+>          - Misc Annotations
+>            - @PropertySource/@PropertySources
+>            - @ComponentScan
+>            - @ImportResource
+>            - @Import
+>            - @Scope
+>            - @Lazy
 >     - Second Example App in Spring Boot on Dependency Injection.
 >     - How to resolve Ambiguity Problem
 >     - If all 3 solutions are applied pointing 3 different dependent spring beans then @Qualifier solution works as the final.
