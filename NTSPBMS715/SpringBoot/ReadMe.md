@@ -51,7 +51,13 @@
 > - <em>**`Project :`**</em> *`BootProj01-BasicDI`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 8th-2022 -   Spring Boot first App flow.png`*
 
-> #### June 09 2022 -- No Class
+> #### June 09 2022 -- Spring vs Spring Boot
+> - <em>**`Topics:`**</em>
+>     - What is the difference between Spring and SpringBboot ?
+>     - WebServices is given to develop Distributed Apps.
+>     - Using Spring, Spring Boot we can develop
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring vs  Spring Boot- June9th.png`*
+
 
 > #### June 10 2022 -- Different types of annotation spring boot Programming
 > - <em>**`Topics:`**</em>
