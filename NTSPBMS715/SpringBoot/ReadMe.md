@@ -177,7 +177,7 @@
 
 > #### June 24 2022 -- No Class
 
-> > #### June 25 2022 -- Data Injection
+> #### June 25 2022 -- Data Injection
 > - <em>**`Topics:`**</em>
 >     - Example app on @ConfigurationProperties
 >     - What is the difference between @Value and @ConfigurationProperties ?
@@ -185,4 +185,28 @@
 >     - How to configure user-defined properties file in spring boot application ?
 >     - In application.properties and user-defiend properties file contains same key with different values and if try to inject that key related value to spring bean property by using @Value which value will be taken as the final value ?
 > - <em>**`Project :`**</em> *`BootProj05-ConfigurationProperties`*
-> - <em>**`File Name :`**</em> *`NTSPBMS715-June 23rd - -  Spring-boot-starter-parent -  Data Injection.png`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 25rd - -   Data Injection.png`*
+
+> #### June 26 2022 -- No Class
+
+> #### June 27 2022 -- More on Properties file
+> - <em>**`Topics:`**</em>
+>     - Injecting values to different types(simple, array, list, set, map, HAS-A property) of spring bean properties fron properties.
+>     - YML/YAML
+> - <em>**`Project :`**</em> *`BootProj06-ConfigurationPropertiesOnArray-List-Set-HAS-AProperties`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 27th - -  More on Properties file.png`*
+
+> #### June 28 2022 -- Yaml file
+> - <em>**`Topics:`**</em>
+>     - While writing yml files from properties file.
+>     - Can we place values in properties file/yml file in a single line for array/list/set colletion type properties ?
+>     - If we place both application.properties and application.yml having same keys and different values. Can we tell me what happens?
+>     - What is the difference between properties and yaml file ?
+> - <em>**`Project :`**</em> *`BootProj08-Complex-Yml`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 28th - -  yml  file.png`*
+
+> #### June 28 2022 -- Profiles in Spring boot
+> - <em>**`Topics:`**</em>
+>     - Pending....
+> - <em>**`Project :`**</em> *`BootProj08-Complex-Yml`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 29th - - profiles in spring boot.png`*
