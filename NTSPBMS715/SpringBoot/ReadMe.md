@@ -216,3 +216,27 @@
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 29th - - profiles in spring boot.png`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 29th-july 1st - - profiles in spring boot.png`*
 
+> #### July 02 2022 -- Profiles in Spring boot
+> - <em>**`Topics:`**</em>
+>     - Working with single yml file having multiple profiles.
+>     - How many ways are there to activate profiles in spring boot ?
+>         - using application.properties/yml (Best)
+>         - Using system proeprties (-Dspring.profiles.active=dev)
+>         - Using Programatic approach(by using the methods of SpringApplication class)
+>         - ***** If actiavate 3 different profiles by using 3 different approaches. Can you tell me which approach specified profile will be activated ?
+>         - ***** If target spring bean is having multiple possible dependent spring beans then how can we specify spevific dependent spring bean without touching the java source of the project/application ?
+>         - ***** If there is no matching properties file/yml file for the specified active profiles then it takes applicaiton.properties file as default fallback
+>         - ***** what is the meaning of @Profile("default") or what is default profile ?
+>         - ***** What is the difference between fallback profile and defautl profile and also child profile ?
+>         - ***** can we keep multiple spring beans of same category/type(having common super class/implementing interface) in default profile ?
+>         - ***** What is the difference between not adding @Profile for spring bean and adding @Profile("default") for spring bean ?
+> - <em>**`Project :`**</em> *`BootProj11-LayeredApp-Profiles-single-yml-file`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-july 2nd - - profiles in spring boot.png`*
+
+> #### July 02 2022 -- Profiles in Spring boot
+
+> #### July 04 2022 -- Profiles - Runners in Spring Boot
+> - <em>**`Topics:`**</em>
+>     - Pending....
+> - <em>**`Project :`**</em> *`Pending...`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-4thjuly  profiles  - Runners in spring boot.png`*
