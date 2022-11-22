@@ -251,7 +251,6 @@
 >     - How to disable certain Runner class temporarily if multiple runner classes are placed in Spring Boot Project ?
 >     - Can I use Runners in Spring Apps ?
 >     - Videos : Spring JDBC Videos
->     - Step by Step execution
 > - <em>**`Project :`**</em> *`BootProj12-RealtimeDI-AutoConfiguration-ProfilesInclude`*
 > - <em>**`Project :`**</em> *`BootProj12-LayeredApp-Runners`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-4thjuly  profiles  - Runners in spring boot.png`*
