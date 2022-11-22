@@ -88,3 +88,9 @@
 >     - How to resolve Ambiguity Problem
 >     - If all 3 solutions are applied pointing 3 different dependent spring beans then @Qualifier solution works as the final.
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 10th-13th-2022-Different types of annotation spring boot Programming.png`*
+
+> #### June 11 & June 12 & June 13 2022 -- Different types of annotation spring boot Programming
+> - <em>**`Topics:`**</em>
+>     - Sample application for selecting dependent class without changing the code in spring boot with xml file.(flow with alphabetical representation).
+> - <em>**`Project :`**</em> *`BootProj02-DI`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 10th-13th-2022-Different types of annotation spring boot Programming.png`*
