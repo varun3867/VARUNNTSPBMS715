@@ -130,4 +130,59 @@
 > - <em>**`Project :`**</em> *`BootProj03-LayeredApp`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 17th -  Spring Boot Layered App Development.png`*
 
+> #### June 18 2022 -- Spring Boot Data Sources in AutoConfiguration
+> - <em>**`Topics:`**</em>
+>     - To Enable Tomcat CP DataSource Spring Boot App.
+>     - To Enable apache DBCP2 DataSource in Spring Boot App.
+>     - To Enable oracle UCP DataSource in Spring Boot App.
+>     - If we place all the 4 DataSources releated dependencies at a time in spring boot app then what happens ?
+>     - How does the @EnableAutoConfiguration annotation of @SpringBootApplication knowns which classes of the currently added jar files should configure as spring beans through auto configuration ?
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 18th - Spring Boot DataSources in AuotConfiguration.png`*
 
+> #### June 19 2022 -- No Class
+
+> #### June 20 2022 -- More on DataSource AutoConfiguration
+> - <em>**`Topics:`**</em>
+>     - ***** Spring 2.x DataSource Priority Algoritm is
+>     - ***** How to break the above algorithm and how can we use certain DataSource directly without following the above algorithm ?
+>     - ***** How can we make spring boot App working with other than DataSource algorithm DAtaSources/Connection pool?
+>     - or How can we use c3p0, proxol, vibur and etc jdbc conn pools in spirng boot applicaiton.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 20th - More on DataSource AutoConfiguration.png`*
+
+> #### June 21 2022 -- More on DataSource AutoConfiguration - spring-boot0starter-parent
+> - <em>**`Topics:`**</em>
+>     - ***** Here HikariCP and C3P0 are present. How can we disable/exclude DataSource from autoconfiguration ?
+>     - ***** When should I go for AutoConfiguration exclude activity ?
+>     - ***** What is the jdbc connection pool that you have in your project ?
+>     - Limitations of server managed jdbc connection pool.
+>     - Advantages with third party jdbc conn pools (like Hikari).
+>     - The pom.xml file of Spring Boot Project contains
+>     - The parent project/starter add to pom.xml(spring-boot-starter-parent) performs the following 3 actions
+>         - Controls the version of other starters or dependents or related jar files(libraries).
+>         - Adding or overriding properties
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 20th-21st - More on AutoConfiguration -  Spring-boot-starter-parent.png`*
+
+> #### June 22 2022 -- NO Class
+
+> #### June 23 2022 -- spring-boot0starter-parent - Data Injection
+> - <em>**`Topics:`**</em>
+>     - supplies maven plugins
+>     - injecting simple values to spring bean simple properties.
+>     - Every sprping bean allows threee types of properties
+>     - @Value
+>     - @ConfigurationProperties
+>     - Sample app for @Value
+> - <em>**`Project :`**</em> *`BootProj04-ValueAnnotation-SPEL`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 23rd - -  Spring-boot-starter-parent -  Data Injection.png`*
+
+> #### June 24 2022 -- No Class
+
+> > #### June 25 2022 -- Data Injection
+> - <em>**`Topics:`**</em>
+>     - Example app on @ConfigurationProperties
+>     - What is the difference between @Value and @ConfigurationProperties ?
+>     - If @Value and @ConfigurationProperty tries to inject two different values to same spring bean property then which will be taken as final value
+>     - How to configure user-defined properties file in spring boot application ?
+>     - In application.properties and user-defiend properties file contains same key with different values and if try to inject that key related value to spring bean property by using @Value which value will be taken as the final value ?
+> - <em>**`Project :`**</em> *`BootProj05-ConfigurationProperties`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-June 23rd - -  Spring-boot-starter-parent -  Data Injection.png`*
