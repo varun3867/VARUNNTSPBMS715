@@ -87,5 +87,4 @@
 >     - Second Example App in Spring Boot on Dependency Injection.
 >     - How to resolve Ambiguity Problem
 >     - If all 3 solutions are applied pointing 3 different dependent spring beans then @Qualifier solution works as the final.
-> - <em>**`Project :`**</em> *`BootProj01-BasicDI`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-June 10th-13th-2022-Different types of annotation spring boot Programming.png`*
