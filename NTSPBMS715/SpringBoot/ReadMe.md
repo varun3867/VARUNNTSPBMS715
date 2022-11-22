@@ -57,19 +57,19 @@
 > - <em>**`Topics:`**</em>
 >     - In Core Programming of Spring Boot we use the following different categories of annotations.
           - Annotations for Configuration
-            - @Component
-            - @Service
-            - @Repository
-            - @Controller
-            - @RestController
-            - @ControllerAdvice
-            - @Configuration
-            - @Bean
-            - Annotation for Data Supply
-              - @Autowired
-              - @Value
-              - @Qualifier
-              - @Primary
+             - @Component
+             - @Service
+             - @Repository
+             - @Controller
+             - @RestController
+             - @ControllerAdvice
+             - @Configuration
+             - @Bean
+             - Annotation for Data Supply
+               - @Autowired
+               - @Value
+               - @Qualifier
+               - @Primary
           - java Config Annotations
             - @Named
             - @Inejct
