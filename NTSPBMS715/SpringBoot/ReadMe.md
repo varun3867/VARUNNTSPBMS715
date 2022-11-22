@@ -233,7 +233,7 @@
 > - <em>**`Project :`**</em> *`BootProj11-LayeredApp-Profiles-single-yml-file`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715-july 2nd - - profiles in spring boot.png`*
 
-> #### July 02 2022 -- Profiles in Spring boot
+> #### July 03 2022 -- No Class
 
 > #### July 04 and July 05 2022 -- Profiles - Runners in Spring Boot
 > - <em>**`Topics:`**</em>
