@@ -51,6 +51,7 @@
 >     - Job Object Diagram
 >     - Sample Code
 >     - @EnbleBatchProcessing
->     - End to End Technical View
->     - y
+>     - End to End Technical View /flow of Spring Batch App (Diagram)
+>     - Client App in Spring Batch App
+>     - POC(Proof of Concept on Spring batch processing) (First App on Spring boot batch)
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch More Cfgs  - NOV23rd-2022.png`*
