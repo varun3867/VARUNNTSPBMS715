@@ -39,3 +39,18 @@
 >     - Step object Diagram
 > - <em>**`File Name :`**</em> *`NTSPBMS714- Spring Batch Cfgs  - NOV21st.png`*
 
+> #### Nov 22 2022 -- NO Class
+
+> #### Nov 23 2022 -- Spring Batch More Cfgs
+> - <em>**`Topics:`**</em>
+>     - Spring Batch Configurations
+>     - Step Object Diagram
+>     - JobExecutionListner(I)
+>     - Example JobListner
+>     - Job Object
+>     - Job Object Diagram
+>     - Sample Code
+>     - @EnbleBatchProcessing
+>     - End to End Technical View
+>     - y
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch More Cfgs  - NOV23rd-2022.png`*
