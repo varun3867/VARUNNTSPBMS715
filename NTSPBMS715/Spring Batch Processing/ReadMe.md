@@ -64,3 +64,16 @@
 > - <em>**`Project :`**</em> *`BatchApp1-POC`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Boot Batch -- POC app  - NOV24th-2022.png`*
 
+> #### Nov 25 2022 -- Spring Batch App Converting CSV File Data to Oracle DB table
+> - <em>**`Topics:`**</em>
+>     - Core java recap
+>     - How many special blocks can be placed in java class ?
+>     - When constructor is there to initialise non-static members variables then why should we take instance blocks ?
+>     - regular blocks in java are
+>     - Sample code to execute
+>     - 4 types of inner classes
+>     - Reading CSV File Data(Excel Data), Processing data and writing to Oracle DB table using Spring Batch
+>     - FlatFileItemReader<T>
+>     - jdbcBatchItemWriter
+>     - Full diagram on each component instructions
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App converting CSV File Data to Oracle DB table  - NOV25th-2022.png`*
