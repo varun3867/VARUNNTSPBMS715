@@ -9,14 +9,22 @@
 
 > #### July 09 2022 -- Intro to Spring Data JPA
 > - <em>**`Topics:`**</em>
->     - What is Batch Processing.
->     - usecases
->     - examples
->     - When and why to use Batch processing ?
->     - Spring Batch High Level Architecture/
->     - The basic look of spring Batch app.
->     - Predefined ItemReaders
->     - Predefined ItemWriters
->     - Sequence Flow of Diagram of Step
+>     - Spring data module
+>     - What is o-r mapping or ORM ?
+>     - example with diagram
+>     - List of ORM Softwares
+>     - Advantages of 0-r mappings ?
+>     - Limitations of o-r mappings
 > - <em>**`File Name :`**</em> *`NTSPBMS715-july 9th-2022- Intro to spring data jpa.png`*
+
+> #### July 09 2022 -- Intro to Spring Data JPA
+> - <em>**`Topics:`**</em>
+>     - Spring data module
+>     - What is o-r mapping or ORM ?
+>     - example with diagram
+>     - List of ORM Softwares
+>     - Advantages of 0-r mappings ?
+>     - Limitations of o-r mappings
+> - <em>**`File Name :`**</em> *`NTSPBMS715-july 9th-2022- Intro to spring data jpa.png`*
+
 
