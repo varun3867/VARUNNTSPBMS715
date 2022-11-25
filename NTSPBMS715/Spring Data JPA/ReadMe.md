@@ -17,19 +17,9 @@
 >     - Limitations of o-r mappings
 > - <em>**`File Name :`**</em> *`NTSPBMS715-july 9th-2022- Intro to spring data jpa.png`*
 
-> #### July 09 2022 -- Intro to Spring Data JPA
-> - <em>**`Topics:`**</em>
->     - Spring data module
->     - What is o-r mapping or ORM ?
->     - example with diagram
->     - List of ORM Softwares
->     - Advantages of 0-r mappings ?
->     - Limitations of o-r mappings
-> - <em>**`File Name :`**</em> *`NTSPBMS715-july 9th-2022- Intro to spring data jpa.png`*
-
 > #### July 10 2022 -- No Class
 
-> #### July 09 2022 -- Need of Spring Data JPA
+> #### July 11 2022 -- Need of Spring Data JPA
 > - <em>**`Topics:`**</em>
 >     - ***** What is the difference between ORM and JPA and ORM Framework/Tool ?
 >     - Persistence, Persistence store, Persistence operations, Persistence Logic, Persistence Technology/framework.
@@ -64,5 +54,20 @@
 >          -  JaCoCo (Java Code Coverage) | by Mr. Nataraj
 >          -  https://youtu.be/wc0eN73-2tM
 >     - ***** When should I use SQL DB s/w and when should I use NOSQL DB s/w ? 
->> > - <em>**`File Name :`**</em> *`NTSPBMS715- Need of Spring Data JPA -july11th-2022.png*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Need of Spring Data JPA -july11th-2022.png*
 
+> #### July 12 2022 -- Intro to Spring Data JPA
+> - <em>**`Topics:`**</em>
+>     - Need of Spring Data Modules.
+>     - Before the arrival Spring Data Module
+>     - After the arrival of Spring Data Moudle.
+>     - Different Moudles of Spring Data Module.
+>     - Main Modules
+>     - Community Modules
+>     - Plain JDBC App.
+>     - Spring JDBC App.
+>     - Spring data jdbc App.
+>     - plian hibernate app.
+>     - spring orm app.
+>     - Spring Data JPA App.
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Need of Spring Data JPA -july12th-2022.png`*
