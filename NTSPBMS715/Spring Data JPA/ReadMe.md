@@ -31,9 +31,9 @@
 
 > #### July 09 2022 -- Need of Spring Data JPA
 > - <em>**`Topics:`**</em>
->     - What is the difference between ORM and JPA and ORM Framework/Tool ?
+>     - ***** What is the difference between ORM and JPA and ORM Framework/Tool ?
 >     - Persistence, Persistence store, Persistence operations, Persistence Logic, Persistence Technology/framework.
->     - Where should I use JDBC and where should I use ORM framework to develop the persistence logic ?
+>     - ***** Where should I use JDBC and where should I use ORM framework to develop the persistence logic ?
 >     - Videos : Hibenate
 >          -  =====Hibernate @ 4.00 PM | Mr. Nataraj=======
 >          -  Day-1: https://youtu.be/I4e70Yt4beQ
@@ -63,5 +63,6 @@
 >          -  ====Code Coverage tool =====
 >          -  JaCoCo (Java Code Coverage) | by Mr. Nataraj
 >          -  https://youtu.be/wc0eN73-2tM
-> - <em>**`File Name :`**</em> *`NTSPBMS715- Need of Spring Data JPA -july11th-2022.png*
+>     - ***** When should I use SQL DB s/w and when should I use NOSQL DB s/w ? 
+>> > - <em>**`File Name :`**</em> *`NTSPBMS715- Need of Spring Data JPA -july11th-2022.png*
 
