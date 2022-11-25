@@ -55,3 +55,12 @@
 >     - Client App in Spring Batch App
 >     - POC(Proof of Concept on Spring batch processing) (First App on Spring boot batch)
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch More Cfgs  - NOV23rd-2022.png`*
+
+> #### Nov 24 2022 -- Spring Batch POC
+> - <em>**`Topics:`**</em>
+>     - POC (Proof of Concept on Spring Batch Processing)
+>     - BatchApp1-POC
+>     - Another way of writing BatchConfig class.
+> - <em>**`Project :`**</em> *`BatchApp1-POC`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Boot Batch -- POC app  - NOV24th-2022.png`*
+
