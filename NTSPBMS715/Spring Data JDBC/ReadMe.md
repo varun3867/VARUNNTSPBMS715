@@ -67,15 +67,15 @@
 >     - Videos - maven
 > - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple callabck interfaces-OCT 12th.png`*
 
-> #### Oct 12 - Oct 18 2021 -- Dasara Holidays
+> #### Oct 13 - Oct 18 2021 -- Dasara Holidays
 > 
-> #### Oct 19 2021 -- Spring JDBC - JDBCTemplate  callback interfaces
+> #### Oct 19 2021 -- NamedParameterJDBCTemplate
 > - <em>**`Topics:`**</em>
->     - Java supports 4 types of inner classes
->     - Sample code using callback interfaces i.e., RowMapper using anonyamous inner class.
->     - Sample code using callback interfaces i.e., RowMapper using lamdba expression based anonyamous inner classes.
->     - ResultSetExtractor
->     - Sample code using callback interfaces i.e., ResultSetExtractor using lamdba expression based anonyamous inner classes.
->     - Videos - lombok api
->     - Videos - maven
-> - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple callabck interfaces-OCT 12th.png`*
+>     - Parameters in the SQL query are two types.
+>         - Using Map Object
+>         - Using SqlParameterSource(I) class object
+>     - We can set values to Named Parameters in two types.
+>     - Configuring lombok api
+>     - example app on NamedParameterJdbcTemplate using Map Object
+> - <em>**`Project :`**</em> *`JDBCProj04-NamedParameterJdbcTemplate*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - NamedParameterJdbcTemplate-OCT 19th.png`*
