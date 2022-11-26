@@ -22,7 +22,7 @@
 >     - sampleEmployeeDAOImpl class(DAO class)
 >     - Various methods in JDBC Template class
 >     - Example App
-> - <em>**`Project :`**</em> *`JDBCProj01-JdbcTemplate-DirectMethods-Xmlcfgs*
+> - <em>**`Project :`**</em> *`JDBCProj01-JdbcTemplate-DirectMethods-Xmlcfgs`*
 > - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTempl-OCT 7th.png*
 
 > #### Oct 08 2021 -- Spring JDBC - JDBCTemplate  
@@ -32,7 +32,7 @@
 >     - GET_EMP_DETAILS_BY_EMPNO
 >     - GET_EMP_DETAILS_BY_EMPDESGS
 >     - Which methods select Simple Statement and which methods selects PreparedStatement ?
-> - <em>**`Project :`**</em> *`JDBCProj01-JdbcTemplate-DirectMethods-Xmlcfgs*
+> - <em>**`Project :`**</em> *`JDBCProj01-JdbcTemplate-DirectMethods-Xmlcfgs`*
 > - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple-OCT 8th.png`*
 
 > #### Oct 09 2021 -- Spring JDBC - JDBCTemplate  
