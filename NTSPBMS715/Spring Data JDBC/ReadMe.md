@@ -44,4 +44,13 @@
 > - <em>**`Project :`**</em> *`JDBCProj02-JdbcTemplate-DirectMethods-Annotations*
 > - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple-OCT 9th.png`*
 
-> #### Nov 20 2022 -- No Class
+> #### Oct 10 2021 -- No Class
+
+> #### Oct 11 2021 -- Spring JDBC - JDBCTemplate  
+> - <em>**`Topics:`**</em>
+>     - callback interfaces in spring jdbc are
+>     - Java supports 4 types of inner classes
+>     - Legacy style of passing data
+>     - Modern style of passing data
+> - <em>**`Project :`**</em> *`JDBCProj03-JdbcTemplate-DirectMethods-CallbackInterfaces*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple callabck interfaces-OCT 11th.png`*
