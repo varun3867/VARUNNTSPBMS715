@@ -82,11 +82,15 @@
 
 > #### Oct 20 2021 -- NamedParameterJDBCTemplate
 > - <em>**`Topics:`**</em>
->     - Parameters in the SQL query are two types.
->         - Using Map Object
->         - Using SqlParameterSource(I) class object
->     - We can set values to Named Parameters in two types.
->     - Configuring lombok api
->     - example app on NamedParameterJdbcTemplate using Map Object
+>     - There are two implementation classes for SqlParameterSource(I).
+>         - MapSqlParameterSource
+>         - BeanPropertySqlParameterSource
+>     - example app on NamedParameterJdbcTemplate taking parameters using mapSqlParameterSource and BeanPropertySqlParameterSource.
 > - <em>**`Project :`**</em> *`JDBCProj04-NamedParameterJdbcTemplate'*
-> - <em>**`File Name :`**</em> *`NTSP613-FS - NamedParameterJdbcTemplate-OCT 19th.png`*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - NamedParameterJdbcTemplate-OCT 20th.png*
+
+> #### Oct 21 2021 -- SimpleJDBCInsert and SimpleJDBCCal
+> - <em>**`Topics:`**</em>
+>     - Pending....
+> - <em>**`Project :`**</em> *`JDBCProj04-NamedParameterJdbcTemplate'*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - NamedParameterJdbcTemplate-OCT 20th.png*
