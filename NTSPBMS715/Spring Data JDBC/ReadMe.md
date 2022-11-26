@@ -55,3 +55,12 @@
 >     - Sample code using callback interfaces i.e., RowMapper
 > - <em>**`Project :`**</em> *`JDBCProj03-JdbcTemplate-DirectMethods-CallbackInterfaces*
 > - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple callabck interfaces-OCT 11th.png`*
+
+> #### Oct 12 2021 -- Spring JDBC - JDBCTemplate  callback interfaces
+> - <em>**`Topics:`**</em>
+>     - Java supports 4 types of inner classes
+>     - Sample code using callback interfaces i.e., RowMapper using anonyamous inner class.
+>     - Sample code using callback interfaces i.e., RowMapper using lamdba expression based anonyamous inner classes.
+>     - ResultSetExtractor
+> - <em>**`Project :`**</em> *`JDBCProj03-JdbcTemplate-DirectMethods-CallbackInterfaces*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple callabck interfaces-OCT 11th.png`*
