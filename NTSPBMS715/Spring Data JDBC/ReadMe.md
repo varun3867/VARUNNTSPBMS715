@@ -46,7 +46,7 @@
 
 > #### Oct 10 2021 -- No Class
 
-> #### Oct 11 2021 -- Spring JDBC - JDBCTemplate  
+> #### Oct 11 2021 -- Spring JDBC - JDBCTemplate  callback interfaces
 > - <em>**`Topics:`**</em>
 >     - callback interfaces in spring jdbc are
 >     - Java supports 4 types of inner classes
