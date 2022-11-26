@@ -67,7 +67,9 @@
 >     - Videos - maven
 > - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple callabck interfaces-OCT 12th.png`*
 
-> #### Oct 12 2021 -- Spring JDBC - JDBCTemplate  callback interfaces
+> #### Oct 12 - Oct 18 2021 -- Dasara Holidays
+> 
+> #### Oct 19 2021 -- Spring JDBC - JDBCTemplate  callback interfaces
 > - <em>**`Topics:`**</em>
 >     - Java supports 4 types of inner classes
 >     - Sample code using callback interfaces i.e., RowMapper using anonyamous inner class.
