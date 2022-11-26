@@ -1,1 +1,47 @@
 
+# Spring Data JDBC -- Should Install Eclipse JEE Flavour
+
+> #### Oct 06 2021 -- Spring JDBC Intro
+> - <em>**`Topics:`**</em>
+>     - Spring JDBC/Spring DAO
+>     - Using Spring JDBC
+>     - Using Spring ORM
+>     - Using Data JPA
+>     - Plain JDBC App
+>     - Spring JDBC App
+>     - Limitations with Spring JDBC
+>     - Spirng JDBC Advantages
+>     - Different ways of developing spring jdbc persistence logic
+>     - What is the connection pool/JDBC DataSource that you have used in your app ?
+> - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC Intro-OCT 6th.png`*
+
+> #### Oct 07 2021 -- Spring JDBC - JDBCTemplate
+> - <em>**`Topics:`**</em>
+>     - JDBC Template
+>     - applicationContext.xml
+>     - sampleEmployeeDAOImpl class(DAO class)
+>     - Various methods in JDBC Template class
+>     - Example App
+> - <em>**`Project :`**</em> *`JDBCProj01-JdbcTemplate-DirectMethods-Xmlcfgs*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTempl-OCT 7th.png*
+
+> #### Oct 08 2021 -- Spring JDBC - JDBCTemplate  
+> - <em>**`Topics:`**</em>
+>     - GET_EMP_COUNT
+>     - GET_EMP_NAME_BY_EMPNO
+>     - GET_EMP_DETAILS_BY_EMPNO
+>     - GET_EMP_DETAILS_BY_EMPDESGS
+>     - Which methods select Simple Statement and which methods selects PreparedStatement ?
+> - <em>**`Project :`**</em> *`JDBCProj01-JdbcTemplate-DirectMethods-Xmlcfgs*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple-OCT 8th.png`*
+
+> #### Oct 09 2021 -- Spring JDBC - JDBCTemplate  
+> - <em>**`Topics:`**</em>
+>     - update operation using JdbcTemplate
+>     - insert operation using JdbcTemplate
+>     - Limitaitons of JdbcTemplate Direct Methods
+>     - For Annotation driven cfgs based JdbcTemplate app ref
+> - <em>**`Project :`**</em> *`JDBCProj02-JdbcTemplate-DirectMethods-Annotations*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple-OCT 9th.png`*
+
+> #### Nov 20 2022 -- No Class
