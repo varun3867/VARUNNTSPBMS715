@@ -68,7 +68,7 @@
 > - <em>**`File Name :`**</em> *`NTSP613-FS - Spring JDBC -JDBCTemple callabck interfaces-OCT 12th.png`*
 
 > #### Oct 13 - Oct 18 2021 -- Dasara Holidays
-> 
+
 > #### Oct 19 2021 -- NamedParameterJDBCTemplate
 > - <em>**`Topics:`**</em>
 >     - Parameters in the SQL query are two types.
@@ -77,5 +77,16 @@
 >     - We can set values to Named Parameters in two types.
 >     - Configuring lombok api
 >     - example app on NamedParameterJdbcTemplate using Map Object
-> - <em>**`Project :`**</em> *`JDBCProj04-NamedParameterJdbcTemplate*
+> - <em>**`Project :`**</em> *`JDBCProj04-NamedParameterJdbcTemplate'*
+> - <em>**`File Name :`**</em> *`NTSP613-FS - NamedParameterJdbcTemplate-OCT 19th.png`*
+
+> #### Oct 20 2021 -- NamedParameterJDBCTemplate
+> - <em>**`Topics:`**</em>
+>     - Parameters in the SQL query are two types.
+>         - Using Map Object
+>         - Using SqlParameterSource(I) class object
+>     - We can set values to Named Parameters in two types.
+>     - Configuring lombok api
+>     - example app on NamedParameterJdbcTemplate using Map Object
+> - <em>**`Project :`**</em> *`JDBCProj04-NamedParameterJdbcTemplate'*
 > - <em>**`File Name :`**</em> *`NTSP613-FS - NamedParameterJdbcTemplate-OCT 19th.png`*
