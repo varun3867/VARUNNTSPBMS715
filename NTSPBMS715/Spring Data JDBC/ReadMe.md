@@ -91,6 +91,12 @@
 
 > #### Oct 21 2021 -- SimpleJDBCInsert and SimpleJDBCCal
 > - <em>**`Topics:`**</em>
->     - Pending....
+>     - Different approaches of developing code in Spring JDBC.
+>         - Using JdbcTemplate
+>         - Using NamedParameterJdbcTemplate
+>         - SimpleJdbcTemplate
+>         - SimepleJdbcInsert, SimpleJdbcCall
+>         - Mapping SQL Operations(Queries) as sub class.
+>      - SimepleJdbcInsert, SimpleJdbcCall
 > - <em>**`Project :`**</em> *`JDBCProj04-NamedParameterJdbcTemplate`*
 > - <em>**`File Name :`**</em> *`NTSP613-FS - NamedParameterJdbcTemplate-OCT 20th.png`*
