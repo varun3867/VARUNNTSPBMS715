@@ -77,3 +77,11 @@
 >     - jdbcBatchItemWriter
 >     - Full diagram on each component instructions
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App converting CSV File Data to Oracle DB table  - NOV25th-2022.png`*
+
+> #### Nov 26 - Nov 27 2022 -- Spring Batch App Converting CSV File Data to Oracle DB table
+> - <em>**`Topics:`**</em>
+>     - Story Board of CSV file to DB table conversion using spring batch.
+>     - Example App
+>     - Step by Step execution
+> - <em>**`Project :`**</em> *`BootBatchProj02-CSVToDBTable`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting CSV File Data to Oracle DB table  -Nov26th-28th-2022.png`*
