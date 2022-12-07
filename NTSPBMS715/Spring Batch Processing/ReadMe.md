@@ -108,3 +108,43 @@
 >         - JdbcCursorItemReder and FlatFileItemWriter with anonyomous sub class + instance block and Builder class creation.
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App converting DB table records to CSV file  - dec2nd 2022.png`*
 
+> #### Dec 03 2022 -- Spring Batch  App converting DB table records to CSV file 
+> - <em>**`Topics:`**</em>
+>     - Story board of batching (DB table records to csv file).
+>         - Procedure with diagram
+>         - Syntax lamda based interface implementation class obj creation.
+>         - JdbcCursorItemReder and FlatFileItemWriter with anonyomous sub class + instance block and Builder class creation.
+>         - Config File
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App converting DB table records to CSV file  - dec2nd -3rd-2022.png`*
+  
+> #### Dec 04 2022 -- No Class
+
+> #### Dec 05 2022 -- Spring Batch  App conveting   csv file  to MongoDB Collections 
+> - <em>**`Topics:`**</em>
+>     - Spring Batch  App conveting   csv file  to MongoDB Document.
+>         - Diagram Flow
+>         - example app1 (Writing data value to mongodb collection as string value). -- like a story board
+>         - Example app2 (date value as java.time.LocalDate in @Document class). -- like a story board
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting   csv file  to MongoDB Collections  - dec5th-2022.png`*
+
+> #### Dec 06 2022 -- Spring Batch  App conveting   csv file  to MongoDB Collections 
+> - <em>**`Topics:`**</em>
+>     - Spring Batch  App conveting   csv file  to MongoDB Document.
+>         - Diagram Flow
+>         - example app1 (Writing data value to mongodb collection as string value). -- like a story board
+>         - Example app2 (date value as java.time.LocalDate in @Document class). -- like a story board
+>         - Flow of execution
+>         - In application.properties
+>         - To enable scheduling on Batch Processing.
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting   csv file  to MongoDB Collections  - dec5th-6th-2022.png`*
+  
+> #### Dec 07 2022 -- Spring Batch  App conveting   csv file  to MongoDB Collections 
+> - <em>**`Topics:`**</em>
+>     - Spring Batch  App conveting   csv file  to MongoDB Document.
+>         - Diagram Flow
+>         - example app1 (Writing data value to mongodb collection as string value). -- like a story board
+>         - Example app2 (date value as java.time.LocalDate in @Document class). -- like a story board
+>         - Flow of execution
+>         - In application.properties
+>         - To enable scheduling on Batch Processing.
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting   csv file  to MongoDB Collections  - dec5th-6th-2022.png`*
