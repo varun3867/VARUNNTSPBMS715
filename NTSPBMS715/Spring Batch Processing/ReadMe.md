@@ -124,7 +124,9 @@
 >     - Spring Batch  App conveting   csv file  to MongoDB Document.
 >         - Diagram Flow
 >         - example app1 (Writing data value to mongodb collection as string value). -- like a story board
+>             - <em>**`Project :`**</em> *`BatchApp04-CSVToMongoDB`*
 >         - Example app2 (date value as java.time.LocalDate in @Document class). -- like a story board
+>             - <em>**`Project :`**</em> *`BatchApp05-CSVToMongoDB1`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting   csv file  to MongoDB Collections  - dec5th-2022.png`*
 
 > #### Dec 06 2022 -- Spring Batch  App conveting   csv file  to MongoDB Collections 
@@ -132,19 +134,22 @@
 >     - Spring Batch  App conveting   csv file  to MongoDB Document.
 >         - Diagram Flow
 >         - example app1 (Writing data value to mongodb collection as string value). -- like a story board
+>             - <em>**`Project :`**</em> *`BatchApp04-CSVToMongoDB`*
 >         - Example app2 (date value as java.time.LocalDate in @Document class). -- like a story board
+>             - <em>**`Project :`**</em> *`BatchApp05-CSVToMongoDB1`*
 >         - Flow of execution
 >         - In application.properties
 >         - To enable scheduling on Batch Processing.
 > - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting   csv file  to MongoDB Collections  - dec5th-6th-2022.png`*
   
-> #### Dec 07 2022 -- Spring Batch  App conveting   csv file  to MongoDB Collections 
+> #### Dec 07 2022 -- Spring Batch  App conveting   csv file  to DB table records using data jpa
 > - <em>**`Topics:`**</em>
->     - Spring Batch  App conveting   csv file  to MongoDB Document.
->         - Diagram Flow
->         - example app1 (Writing data value to mongodb collection as string value). -- like a story board
->         - Example app2 (date value as java.time.LocalDate in @Document class). -- like a story board
->         - Flow of execution
->         - In application.properties
->         - To enable scheduling on Batch Processing.
-> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting   csv file  to MongoDB Collections  - dec5th-6th-2022.png`*
+>     - How to enable cron expression scheduling on Batch Processing.
+>     - converting csv file data to oracle db table records using spring data jpa(hibernate).
+>     - Diagram
+>     - JobRepository contains multiple details about job executions.
+>         - always
+>         - never
+>         - embedded
+> - <em>**`Project :`**</em> *`BatchApp06-CSVtoOracleDBUsingDataJPA`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- Spring Batch  App conveting   csv file  to DB table records using data jpa  -Dec 7th2022`*
