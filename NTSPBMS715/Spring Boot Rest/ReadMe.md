@@ -63,7 +63,7 @@
 
 > #### Dec 18 2022 -- No Class
 
-> #### Dec 19 2022 -- SOAP WebServices Vs RestFullWebServices
+> #### Dec 19 2022 -- 
 > - <em>**`Topics:`**</em>
 >     - Summary on web-services (Similarities and differences).
 >     - Consumer - producer architecutre with front-controller support.
@@ -75,14 +75,20 @@
 >     - @RestController
 > - <em>**`File Name :`**</em> *`NTSPBMS715-2022 -SOAP WebServices Vs RestFullWebServices-dec19th-2022.png`*
 
-> #### Dec 20 2022 -- SOAP WebServices Vs RestFullWebServices
+> #### Dec 20 2022 -- Spring Rest or Spring Boot Rest Flow
 > - <em>**`Topics:`**</em>
->     - Summary on web-services (Similarities and differences).
+>     - Spring Rest / Spring Boot Rest App's Flow of Execution.
+>     - Diagram with flow of execution.
+>     - Points with respect to diagram
+>     - What is the difference between Spring MVC / spring boot MVC flow and Spring Rest / Spring boot Rest Flow ?
 >     - Consumer - producer architecutre with front-controller support.
->     - @RestController
->     - List of http methods/modes.
->     - While developing spirng Rest/ Spring Boot Rest apps the following things involved.
->     - How to write http methods/modes in older versions.
->     - Why spring MVC / Spring Boot MVC deals with GET, POST methods/modes of requests and why Spring Rest / Spring Boot Rest deals with many request modes/methods (GET, POST, PUT, DELETE, PATCH and etc..)
->     - @RestController
-> - <em>**`File Name :`**</em> *`NTSPBMS715-2022 -SOAP WebServices Vs RestFullWebServices-dec19th-2022.png`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715-2022 -Spring Rest or Spring Boot Rest Flow dec 20th -2022.png`*
+
+> #### Dec 20 2022 -- Spring Rest or Spring Boot Rest Flow
+> - <em>**`Topics:`**</em>
+>     - Spring Rest / Spring Boot Rest App's Flow of Execution.
+>     - Diagram with flow of execution.
+>     - Points with respect to diagram
+>     - What is the difference between Spring MVC / spring boot MVC flow and Spring Rest / Spring boot Rest Flow ?
+>     - Consumer - producer architecutre with front-controller support.
+> - <em>**`File Name :`**</em> *`NTSPBMS715-2022 -Spring Rest or Spring Boot Rest Flow dec 20th -2022.png`*
