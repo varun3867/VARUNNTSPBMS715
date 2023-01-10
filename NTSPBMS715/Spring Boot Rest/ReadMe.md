@@ -118,7 +118,7 @@
 > - <em>**`Project :`**</em> *`SpringBootRestProj13-ConsumerApp-Standalone`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- jan9th-2022-RestTemplate.png`*
 
-> #### Dec 23 2022 -- RestTemplate
+> #### Jan 09 2022 -- RestTemplate
 > - <em>**`Topics:`**</em>
 >     - Developing Consumer app using RestTemplate 
 >     - Explianation
@@ -130,4 +130,13 @@
 > - <em>**`Project :`**</em> *`SpringBootRestProj13-ConsumerApp-Standalone`*
 > - <em>**`File Name :`**</em> *`NTSPBMS715- jan9th-2022-RestTemplate.png`*
 
-
+> #### Jan 10 2022 -- More on RestTemplate
+> - <em>**`Topics:`**</em>
+>     - What is the difference between getForEntity() and getForObject() methods ?
+>     - Passing Path Variable values along with http request calls using RestTemplate ?
+>     - Explaination on different forms of getForEntity() and getForObject()
+>     - Example App for developing Provider App and Consumer App
+>     - Sending JSON Data from Consumer App along with POST mode request using RestTemplate
+>     - Explainations on different form of postForEnitiy() and postForObject()
+>     - Example App for developing Provider App and Consumer App
+> - <em>**`File Name :`**</em> *`NTSPBMS715- jan10th-2023- More onRestTemplate.png`*
