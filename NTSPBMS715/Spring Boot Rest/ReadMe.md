@@ -100,3 +100,34 @@
 > - <em>**`Topics:`**</em>
 >     - pending..
 > - <em>**`File Name :`**</em> *`Pending...`*
+
+> #### Jan 10 2023 -- Pending..
+> - <em>**`Topics:`**</em>
+>     - pending..
+> - <em>**`File Name :`**</em> *`Pending...`*
+
+> #### Dec 23 2022 -- RestTemplate
+> - <em>**`Topics:`**</em>
+>     - Developing Consumer app using RestTemplate 
+>     - Explianation
+>     - Example App for developing Provider App and Consumer App
+>     - Why is RestTemplate class obj is not coming as Spring bean in AutoConfiguration process ?
+>     - What is the difference between xxxForEnitity() and xxxForObject() methods ? or What is the difference between getForEntity() or getForObject() methods.
+> - <em>**`Project :`**</em> *`SpringBootRestProj13-ProviderApp`*
+> - <em>**`Project :`**</em> *`SpringBootRestProj13-ConsumerApp`*
+> - <em>**`Project :`**</em> *`SpringBootRestProj13-ConsumerApp-Standalone`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- jan9th-2022-RestTemplate.png`*
+
+> #### Dec 23 2022 -- RestTemplate
+> - <em>**`Topics:`**</em>
+>     - Developing Consumer app using RestTemplate 
+>     - Explianation
+>     - Example App for developing Provider App and Consumer App
+>     - Why is RestTemplate class obj is not coming as Spring bean in AutoConfiguration process ?
+>     - What is the difference between xxxForEnitity() and xxxForObject() methods ? or What is the difference between getForEntity() or getForObject() methods.
+> - <em>**`Project :`**</em> *`SpringBootRestProj13-ProviderApp`*
+> - <em>**`Project :`**</em> *`SpringBootRestProj13-ConsumerApp`*
+> - <em>**`Project :`**</em> *`SpringBootRestProj13-ConsumerApp-Standalone`*
+> - <em>**`File Name :`**</em> *`NTSPBMS715- jan9th-2022-RestTemplate.png`*
+
+
